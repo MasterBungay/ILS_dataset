@@ -1,0 +1,734 @@
+id,univ_type,univ_name,yr_lvl,acad_stat,course,pl_mod,gender,active,A_preference,reflective,R_preference,sensing,S_preference,intuitive,I_preference,visual,Vi_preference,verbal,Ve_preference,sequential,Se_preference,global,G_preference,LS,AR,SI,VV,SG,AR_pref,SI_pref,VV_pref,SG_pref,Learning Style Result,Detected Dimension,Teaching Strategies
+1,1,earist,3,1,cs,3,1,0,Not Prefer,1,Low,9,High,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"0,1,9,0,7,0,3,0",2,1,1,1,Low,High,Moderate,Low,SI,Perception,Practical Lab
+2,1,earist,3,1,cs,3,1,0,Not Prefer,3,Low,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,"0,3,0,1,5,0,7,0",2,2,1,1,Low,Low,Moderate,Moderate,VV,Input,Visual Code Flowcharts
+3,1,earist,3,1,cs,3,2,3,Low,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"3,0,3,0,5,0,1,0",1,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+4,1,earist,3,1,cs,3,2,0,Not Prefer,7,Moderate,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,7,3,0,5,0,1,0",2,1,1,1,Moderate,Low,Moderate,Low,AR,Processing,Concept Mapping
+5,1,earist,3,1,cs,1,2,1,Low,0,Not Prefer,9,High,0,Not Prefer,9,High,0,Not Prefer,1,Low,0,Not Prefer,"1,0,9,0,9,0,1,0",1,1,1,1,Low,High,High,Low,SI,Perception,Practical Lab
+6,1,earist,3,1,cs,3,2,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,7,Moderate,"7,0,3,0,5,0,0,7",1,1,1,2,Moderate,Low,Moderate,Moderate,AR,Processing,Hands-On Labs
+7,1,earist,3,1,cs,3,1,0,Not Prefer,1,Low,9,High,0,Not Prefer,9,High,0,Not Prefer,5,Moderate,0,Not Prefer,"0,1,9,0,9,0,5,0",2,1,1,1,Low,High,High,Moderate,SI,Perception,Practical Lab
+8,1,earist,3,1,cs,3,2,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,1,Low,0,Not Prefer,"1,0,5,0,0,3,1,0",1,1,2,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+9,1,earist,3,1,cs,2,2,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,"3,0,5,0,0,5,5,0",1,1,2,1,Low,Moderate,Moderate,Moderate,SI,Perception,Step-by-step Coding
+10,1,earist,3,1,cs,3,2,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,"0,3,5,0,7,0,7,0",2,1,1,1,Low,Moderate,Moderate,Moderate,SI,Perception,Step-by-step Coding
+11,1,earist,3,1,cs,1,1,0,Not Prefer,5,Moderate,3,Low,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,1,Low,"0,5,3,0,3,0,0,1",2,1,1,2,Moderate,Low,Low,Low,AR,Processing,Concept Mapping
+12,1,earist,3,1,cs,1,1,1,Low,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,"1,0,9,0,0,3,5,0",1,1,2,1,Low,High,Low,Moderate,SI,Perception,Practical Lab
+13,1,earist,3,1,cs,1,2,1,Low,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"1,0,3,0,5,0,1,0",1,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+14,1,earist,3,1,cs,3,1,7,Moderate,0,Not Prefer,9,High,0,Not Prefer,9,High,0,Not Prefer,3,Low,0,Not Prefer,"7,0,9,0,9,0,3,0",1,1,1,1,Moderate,High,High,Low,SI,Perception,Practical Lab
+15,1,earist,3,2,cs,2,1,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,1,Low,"0,1,5,0,9,0,0,1",2,1,1,2,Low,Moderate,High,Low,VV,Input,Interactive code
+16,1,earist,3,1,cs,3,2,3,Low,0,Not Prefer,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,"3,0,0,1,7,0,7,0",1,2,1,1,Low,Low,Moderate,Moderate,VV,Input,Visual Code Flowcharts
+17,1,earist,3,1,cs,3,1,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,"0,1,7,0,0,3,5,0",2,1,2,1,Low,Moderate,Low,Moderate,SI,Perception,Step-by-step Coding
+18,1,earist,3,1,cs,3,1,1,Low,0,Not Prefer,11,High,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"1,0,11,0,5,0,5,0",1,1,1,1,Low,High,Moderate,Moderate,SI,Perception,Practical Lab
+19,1,earist,3,1,cs,2,1,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"0,1,0,5,5,0,5,0",2,2,1,1,Low,Moderate,Moderate,Moderate,SI,Perception,Coding Pattern
+20,1,earist,3,1,cs,3,2,0,Not Prefer,3,Low,3,Low,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,3,Low,"0,3,3,0,9,0,0,3",2,1,1,2,Low,Low,High,Low,VV,Input,Interactive code
+21,1,earist,4,2,cs,3,2,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,5,Moderate,"5,0,5,0,1,0,0,5",1,1,1,2,Moderate,Moderate,Low,Moderate,AR,Processing,Hands-On Labs
+22,1,earist,3,1,cs,3,1,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"5,0,3,0,5,0,1,0",1,1,1,1,Moderate,Low,Moderate,Low,AR,Processing,Hands-On Labs
+23,1,earist,3,1,cs,1,1,1,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,1,Low,0,Not Prefer,1,Low,"1,0,1,0,0,1,0,1",1,1,2,2,Low,Low,Low,Low,AR,Processing,Individual Learning
+24,1,earist,3,1,cs,3,2,0,Not Prefer,11,High,3,Low,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,3,Low,"0,11,3,0,3,0,0,3",2,1,1,2,High,Low,Low,Low,AR,Processing,Independent Coding
+25,1,earist,3,1,cs,3,1,0,Not Prefer,1,Low,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,1,1,0,7,0,1,0",2,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+26,1,earist,3,1,cs,1,1,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,5,Moderate,0,Not Prefer,"3,0,5,0,9,0,5,0",1,1,1,1,Low,Moderate,High,Moderate,VV,Input,Interactive code
+27,2,earist,3,1,cs,3,1,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,"0,0,0,0,0,0,0,0",0,0,0,0,,,,,,,
+28,1,earist,3,1,cs,3,2,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,3,Low,0,Not Prefer,"0,1,0,5,0,1,3,0",2,2,2,1,Low,Moderate,Low,Low,SI,Perception,Coding Pattern
+29,1,earist,3,1,cs,2,1,1,Low,0,Not Prefer,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"1,0,0,1,5,0,5,0",1,2,1,1,Low,Low,Moderate,Moderate,VV,Input,Visual Code Flowcharts
+30,1,earist,3,1,cs,3,1,0,Not Prefer,3,Low,3,Low,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,3,Low,"0,3,3,0,0,3,0,3",2,1,2,2,Low,Low,Low,Low,AR,Processing,Group Coding
+31,1,earist,3,1,cs,3,1,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,1,Low,"7,0,5,0,3,0,0,1",1,1,1,2,Moderate,Moderate,Low,Low,AR,Processing,Hands-On Labs
+32,1,earist,3,1,cs,3,2,0,Not Prefer,1,Low,9,High,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,1,9,0,5,0,1,0",2,1,1,1,Low,High,Moderate,Low,SI,Perception,Practical Lab
+33,1,earist,3,1,cs,2,2,11,High,0,Not Prefer,3,Low,0,Not Prefer,9,High,0,Not Prefer,9,High,0,Not Prefer,"11,0,3,0,9,0,9,0",1,1,1,1,High,Low,High,High,AR,Processing,Collaborative Projects
+34,1,earist,3,1,cs,2,1,3,Low,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,1,Low,3,Low,0,Not Prefer,"3,0,0,3,0,1,3,0",1,2,2,1,Low,Low,Low,Low,AR,Processing,Individual Learning
+35,1,earist,3,1,cs,3,2,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"1,0,5,0,7,0,5,0",1,1,1,1,Low,Moderate,Moderate,Moderate,SI,Perception,Step-by-step Coding
+36,1,earist,3,1,cs,3,2,0,Not Prefer,1,Low,0,Not Prefer,3,Low,1,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,1,0,3,1,0,1,0",2,2,1,1,Low,Low,Low,Low,AR,Processing,Group Coding
+37,1,earist,3,1,cs,3,1,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,"0,0,0,0,0,0,0,0",0,0,0,0,,,,,,,
+38,1,earist,3,1,cs,3,2,9,High,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"9,0,5,0,7,0,0,1",1,1,1,2,High,Moderate,Moderate,Low,AR,Processing,Collaborative Projects
+39,1,earist,3,1,cs,1,1,0,Not Prefer,7,Moderate,7,Moderate,0,Not Prefer,9,High,0,Not Prefer,1,Low,0,Not Prefer,"0,7,7,0,9,0,1,0",2,1,1,1,Moderate,Moderate,High,Low,VV,Input,Interactive code
+40,1,earist,3,1,cs,3,2,1,Low,0,Not Prefer,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"1,0,3,0,7,0,3,0",1,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+41,1,earist,4,2,cs,3,1,0,Not Prefer,5,Moderate,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"0,5,3,0,7,0,0,3",2,1,1,2,Moderate,Low,Moderate,Low,AR,Processing,Concept Mapping
+42,1,earist,3,1,cs,3,2,0,Not Prefer,3,Low,9,High,0,Not Prefer,0,Not Prefer,1,Low,1,Low,0,Not Prefer,"0,3,9,0,0,1,1,0",2,1,2,1,Low,High,Low,Low,SI,Perception,Practical Lab
+43,1,earist,3,1,cs,2,2,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,1,Low,"0,1,7,0,3,0,0,1",2,1,1,2,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+44,1,earist,3,1,cs,3,2,0,Not Prefer,5,Moderate,9,High,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,7,Moderate,"0,5,9,0,9,0,0,7",2,1,1,2,Moderate,High,High,Moderate,SI,Perception,Practical Lab
+45,1,earist,3,1,cs,3,1,0,Not Prefer,1,Low,3,Low,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,"0,1,3,0,1,0,7,0",2,1,1,1,Low,Low,Low,Moderate,SG,Understanding,Structured Outlines
+46,1,earist,3,2,cs,2,1,0,Not Prefer,3,Low,3,Low,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,1,Low,"0,3,3,0,0,3,0,1",2,1,2,2,Low,Low,Low,Low,AR,Processing,Group Coding
+47,1,earist,3,1,cs,2,1,0,Not Prefer,3,Low,1,Low,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,"0,3,1,0,1,0,5,0",2,1,1,1,Low,Low,Low,Moderate,SG,Understanding,Structured Outlines
+48,1,earist,3,1,cs,3,1,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,9,High,0,Not Prefer,3,Low,0,Not Prefer,"3,0,7,0,9,0,3,0",1,1,1,1,Low,Moderate,High,Low,VV,Input,Interactive code
+49,1,earist,3,1,cs,3,1,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"0,7,0,3,5,0,5,0",2,2,1,1,Moderate,Low,Moderate,Moderate,AR,Processing,Concept Mapping
+50,1,earist,3,1,cs,1,2,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,9,High,1,Low,0,Not Prefer,"3,0,7,0,0,9,1,0",1,1,2,1,Low,Moderate,High,Low,VV,Input,Written Code
+51,1,earist,3,1,cs,3,1,1,Low,0,Not Prefer,0,Not Prefer,5,Moderate,3,Low,0,Not Prefer,0,Not Prefer,3,Low,"1,0,0,5,3,0,0,3",1,2,1,2,Low,Moderate,Low,Low,SI,Perception,Coding Pattern
+52,1,earist,3,1,cs,3,1,0,Not Prefer,3,Low,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"0,3,1,0,5,0,3,0",2,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+53,1,earist,3,1,cs,3,2,0,Not Prefer,3,Low,1,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,9,High,"0,3,1,0,1,0,0,9",2,1,1,2,Low,Low,Low,High,SG,Understanding,Integrated Projects
+54,1,earist,3,1,cs,3,1,1,Low,0,Not Prefer,11,High,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,3,Low,"1,0,11,0,1,0,0,3",1,1,1,2,Low,High,Low,Low,SI,Perception,Practical Lab
+55,1,earist,3,1,cs,2,2,3,Low,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,1,Low,3,Low,0,Not Prefer,"3,0,3,0,0,1,3,0",1,1,2,1,Low,Low,Low,Low,AR,Processing,Individual Learning
+56,1,earist,3,1,cs,3,1,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,7,Moderate,0,Not Prefer,7,Moderate,"5,0,5,0,0,7,0,7",1,1,2,2,Moderate,Moderate,Moderate,Moderate,AR,Processing,Hands-On Labs
+57,1,earist,3,1,cs,3,1,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,11,High,0,Not Prefer,1,Low,0,Not Prefer,"7,0,5,0,11,0,1,0",1,1,1,1,Moderate,Moderate,High,Low,VV,Input,Interactive code
+58,1,earist,3,1,cs,3,1,0,Not Prefer,1,Low,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"0,1,0,1,7,0,0,3",2,2,1,2,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+59,1,earist,3,1,cs,3,1,0,Not Prefer,7,Moderate,3,Low,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,3,Low,"0,7,3,0,0,3,0,3",2,1,2,2,Moderate,Low,Low,Low,AR,Processing,Concept Mapping
+60,1,earist,3,1,cs,3,1,0,Not Prefer,1,Low,9,High,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,3,Low,"0,1,9,0,3,0,0,3",2,1,1,2,Low,High,Low,Low,SI,Perception,Practical Lab
+61,1,earist,3,1,cs,3,1,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"5,0,0,3,7,0,0,3",1,2,1,2,Moderate,Low,Moderate,Low,AR,Processing,Hands-On Labs
+62,1,earist,3,1,cs,1,1,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"0,3,5,0,5,0,0,1",2,1,1,2,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+63,1,earist,3,1,cs,2,1,3,Low,0,Not Prefer,3,Low,0,Not Prefer,11,High,0,Not Prefer,3,Low,0,Not Prefer,"3,0,3,0,11,0,3,0",1,1,1,1,Low,Low,High,Low,VV,Input,Interactive code
+64,1,earist,3,1,cs,3,1,0,Not Prefer,11,High,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,11,7,0,7,0,1,0",2,1,1,1,High,Moderate,Moderate,Low,AR,Processing,Independent Coding
+65,1,earist,3,1,cs,2,1,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,9,High,0,Not Prefer,1,Low,"0,5,0,3,0,9,0,1",2,2,2,2,Moderate,Low,High,Low,VV,Input,Written Code
+66,1,earist,3,1,cs,3,1,3,Low,0,Not Prefer,0,Not Prefer,7,Moderate,9,High,0,Not Prefer,0,Not Prefer,3,Low,"3,0,0,7,9,0,0,3",1,2,1,2,Low,Moderate,High,Low,VV,Input,Interactive code
+67,1,earist,3,1,cs,3,2,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"5,0,3,0,7,0,3,0",1,1,1,1,Moderate,Low,Moderate,Low,AR,Processing,Hands-On Labs
+68,1,earist,3,1,cs,3,2,3,Low,0,Not Prefer,0,Not Prefer,1,Low,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"3,0,0,1,1,0,3,0",1,2,1,1,Low,Low,Low,Low,AR,Processing,Individual Learning
+69,1,earist,3,1,cs,3,1,0,Not Prefer,1,Low,3,Low,0,Not Prefer,9,High,0,Not Prefer,9,High,0,Not Prefer,"0,1,3,0,9,0,9,0",2,1,1,1,Low,Low,High,High,VV,Input,Interactive code
+70,1,earist,3,1,cs,3,2,3,Low,0,Not Prefer,1,Low,0,Not Prefer,11,High,0,Not Prefer,0,Not Prefer,7,Moderate,"3,0,1,0,11,0,0,7",1,1,1,2,Low,Low,High,Moderate,VV,Input,Interactive code
+71,1,earist,3,1,cs,1,2,0,Not Prefer,3,Low,1,Low,0,Not Prefer,3,Low,0,Not Prefer,3,Low,0,Not Prefer,"0,3,1,0,3,0,3,0",2,1,1,1,Low,Low,Low,Low,AR,Processing,Group Coding
+72,1,earist,3,1,cs,1,1,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"1,0,5,0,7,0,3,0",1,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+73,1,earist,3,1,cs,3,1,3,Low,0,Not Prefer,11,High,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,"3,0,11,0,5,0,7,0",1,1,1,1,Low,High,Moderate,Moderate,SI,Perception,Practical Lab
+74,1,earist,3,1,cs,3,1,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,3,Low,0,Not Prefer,"1,0,5,0,9,0,3,0",1,1,1,1,Low,Moderate,High,Low,VV,Input,Interactive code
+75,1,earist,3,1,cs,3,1,3,Low,0,Not Prefer,0,Not Prefer,1,Low,9,High,0,Not Prefer,3,Low,0,Not Prefer,"3,0,0,1,9,0,3,0",1,2,1,1,Low,Low,High,Low,VV,Input,Interactive code
+76,1,earist,3,1,cs,1,1,0,Not Prefer,1,Low,0,Not Prefer,3,Low,3,Low,0,Not Prefer,0,Not Prefer,3,Low,"0,1,0,3,3,0,0,3",2,2,1,2,Low,Low,Low,Low,AR,Processing,Group Coding
+77,1,earist,3,1,cs,2,1,1,Low,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,"1,0,1,0,1,0,1,0",1,1,1,1,Low,Low,Low,Low,AR,Processing,Individual Learning
+78,1,earist,3,1,cs,2,2,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"1,0,7,0,5,0,1,0",1,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+79,1,earist,3,1,cs,3,1,0,Not Prefer,3,Low,9,High,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"0,3,9,0,7,0,0,1",2,1,1,2,Low,High,Moderate,Low,SI,Perception,Practical Lab
+80,1,earist,3,1,cs,3,1,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,"7,0,7,0,1,0,1,0",1,1,1,1,Moderate,Moderate,Low,Low,AR,Processing,Hands-On Labs
+81,1,earist,3,1,cs,3,1,0,Not Prefer,1,Low,3,Low,0,Not Prefer,11,High,0,Not Prefer,0,Not Prefer,3,Low,"0,1,3,0,11,0,0,3",2,1,1,2,Low,Low,High,Low,VV,Input,Interactive code
+82,1,earist,3,1,cs,3,1,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,1,Low,0,Not Prefer,"0,3,5,0,9,0,1,0",2,1,1,1,Low,Moderate,High,Low,VV,Input,Interactive code
+83,1,earist,3,1,cs,2,1,0,Not Prefer,3,Low,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,3,7,0,5,0,1,0",2,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+84,1,earist,3,1,cs,2,1,1,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,3,Low,7,Moderate,0,Not Prefer,"1,0,1,0,0,3,7,0",1,1,2,1,Low,Low,Low,Moderate,SG,Understanding,Structured Outlines
+85,1,earist,3,1,cs,2,1,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"5,0,9,0,5,0,1,0",1,1,1,1,Moderate,High,Moderate,Low,SI,Perception,Practical Lab
+86,1,earist,3,1,cs,3,1,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,0,Not Prefer,1,Low,"1,0,7,0,0,1,0,1",1,1,2,2,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+87,1,earist,3,2,cs,2,2,11,High,0,Not Prefer,9,High,0,Not Prefer,7,Moderate,0,Not Prefer,11,High,0,Not Prefer,"11,0,9,0,7,0,11,0",1,1,1,1,High,High,Moderate,High,AR,Processing,Collaborative Projects
+88,1,earist,3,1,cs,3,2,3,Low,0,Not Prefer,3,Low,0,Not Prefer,9,High,0,Not Prefer,3,Low,0,Not Prefer,"3,0,3,0,9,0,3,0",1,1,1,1,Low,Low,High,Low,VV,Input,Interactive code
+89,1,earist,3,1,cs,3,1,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,1,Low,"0,1,5,0,3,0,0,1",2,1,1,2,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+90,1,earist,3,1,cs,3,1,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,1,Low,"5,0,3,0,3,0,0,1",1,1,1,2,Moderate,Low,Low,Low,AR,Processing,Hands-On Labs
+91,1,earist,3,1,cs,3,2,0,Not Prefer,3,Low,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"0,3,3,0,7,0,3,0",2,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+92,1,earist,3,1,cs,3,1,3,Low,0,Not Prefer,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"3,0,0,1,7,0,1,0",1,2,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+93,1,earist,3,1,cs,1,1,1,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,5,Moderate,1,Low,0,Not Prefer,"1,0,1,0,0,5,1,0",1,1,2,1,Low,Low,Moderate,Low,VV,Input,Reading and Explaining
+94,1,earist,3,1,cs,3,1,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,9,High,0,Not Prefer,1,Low,0,Not Prefer,"3,0,7,0,9,0,1,0",1,1,1,1,Low,Moderate,High,Low,VV,Input,Interactive code
+95,1,earist,3,1,cs,1,1,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,5,Moderate,"0,1,5,0,9,0,0,5",2,1,1,2,Low,Moderate,High,Moderate,VV,Input,Interactive code
+96,1,earist,3,1,cs,2,1,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"0,5,5,0,5,0,5,0",2,1,1,1,Moderate,Moderate,Moderate,Moderate,AR,Processing,Concept Mapping
+97,2,earist,3,1,cs,2,1,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,"1,0,7,0,3,0,5,0",1,1,1,1,Low,Moderate,Low,Moderate,SI,Perception,Step-by-step Coding
+98,1,earist,3,1,cs,3,1,1,Low,0,Not Prefer,9,High,0,Not Prefer,9,High,0,Not Prefer,3,Low,0,Not Prefer,"1,0,9,0,9,0,3,0",1,1,1,1,Low,High,High,Low,SI,Perception,Practical Lab
+99,1,earist,3,1,cs,2,1,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,7,Moderate,"0,5,5,0,0,3,0,7",2,1,2,2,Moderate,Moderate,Low,Moderate,AR,Processing,Concept Mapping
+100,1,earist,2,2,cs,3,1,1,Low,0,Not Prefer,0,Not Prefer,7,Moderate,9,High,0,Not Prefer,0,Not Prefer,5,Moderate,"1,0,0,7,9,0,0,5",1,2,1,2,Low,Moderate,High,Moderate,VV,Input,Interactive code
+101,1,earist,3,1,cs,3,1,0,Not Prefer,5,Moderate,0,Not Prefer,9,High,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,5,0,9,7,0,1,0",2,2,1,1,Moderate,High,Moderate,Low,SI,Perception,Advanced Programming
+102,1,earist,3,1,cs,3,1,0,Not Prefer,3,Low,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,"0,3,7,0,1,0,5,0",2,1,1,1,Low,Moderate,Low,Moderate,SI,Perception,Step-by-step Coding
+103,1,earist,3,1,cs,2,2,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,1,Low,"1,0,5,0,9,0,0,1",1,1,1,2,Low,Moderate,High,Low,VV,Input,Interactive code
+104,1,earist,3,1,cs,1,1,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"5,0,9,0,5,0,0,1",1,1,1,2,Moderate,High,Moderate,Low,SI,Perception,Practical Lab
+105,1,earist,3,1,cs,3,2,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"0,1,5,0,7,0,3,0",2,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+106,1,earist,3,1,cs,3,1,0,Not Prefer,7,Moderate,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,7,1,0,7,0,1,0",2,1,1,1,Moderate,Low,Moderate,Low,AR,Processing,Concept Mapping
+107,1,earist,4,2,cs,2,1,0,Not Prefer,3,Low,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"0,3,0,1,5,0,3,0",2,2,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+108,1,earist,3,1,cs,3,1,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"0,3,0,5,5,0,0,3",2,2,1,2,Low,Moderate,Moderate,Low,SI,Perception,Coding Pattern
+109,1,earist,3,2,cs,3,1,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"0,3,5,0,7,0,3,0",2,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+110,1,earist,3,1,cs,1,1,0,Not Prefer,9,High,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"0,9,5,0,7,0,3,0",2,1,1,1,High,Moderate,Moderate,Low,AR,Processing,Independent Coding
+111,1,earist,3,1,cs,3,2,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"3,0,5,0,7,0,1,0",1,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+112,1,earist,3,1,cs,3,1,0,Not Prefer,5,Moderate,3,Low,0,Not Prefer,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,"0,5,3,0,0,7,0,3",2,1,2,2,Moderate,Low,Moderate,Low,AR,Processing,Concept Mapping
+113,1,earist,3,1,cs,1,2,7,Moderate,0,Not Prefer,9,High,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"7,0,9,0,5,0,5,0",1,1,1,1,Moderate,High,Moderate,Moderate,SI,Perception,Practical Lab
+114,1,earist,3,1,cs,3,2,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"7,0,1,0,5,0,5,0",1,1,1,1,Moderate,Low,Moderate,Moderate,AR,Processing,Hands-On Labs
+115,1,earist,3,1,cs,3,1,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,7,Moderate,5,Moderate,0,Not Prefer,"1,0,7,0,0,7,5,0",1,1,2,1,Low,Moderate,Moderate,Moderate,SI,Perception,Step-by-step Coding
+116,1,earist,3,1,cs,3,1,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"7,0,1,0,7,0,0,1",1,1,1,2,Moderate,Low,Moderate,Low,AR,Processing,Hands-On Labs
+117,1,earist,3,1,cs,2,2,0,Not Prefer,3,Low,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,3,Low,0,Not Prefer,"0,3,7,0,0,3,3,0",2,1,2,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+118,1,earist,3,1,cs,3,2,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,5,Moderate,"5,0,1,0,7,0,0,5",1,1,1,2,Moderate,Low,Moderate,Moderate,AR,Processing,Hands-On Labs
+119,1,earist,3,1,cs,3,2,3,Low,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"3,0,3,0,5,0,3,0",1,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+120,1,earist,3,1,cs,3,1,0,Not Prefer,1,Low,9,High,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"0,1,9,0,1,0,3,0",2,1,1,1,Low,High,Low,Low,SI,Perception,Practical Lab
+121,1,earist,3,1,cs,3,2,3,Low,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,5,Moderate,"3,0,1,0,7,0,0,5",1,1,1,2,Low,Low,Moderate,Moderate,VV,Input,Visual Code Flowcharts
+122,1,earist,4,2,cs,3,1,0,Not Prefer,5,Moderate,1,Low,0,Not Prefer,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,"0,5,1,0,0,5,0,1",2,1,2,2,Moderate,Low,Moderate,Low,AR,Processing,Concept Mapping
+123,1,earist,3,1,cs,3,2,0,Not Prefer,7,Moderate,7,Moderate,0,Not Prefer,9,High,0,Not Prefer,1,Low,0,Not Prefer,"0,7,7,0,9,0,1,0",2,1,1,1,Moderate,Moderate,High,Low,VV,Input,Interactive code
+124,1,earist,3,1,cs,3,1,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"7,0,7,0,5,0,1,0",1,1,1,1,Moderate,Moderate,Moderate,Low,AR,Processing,Hands-On Labs
+125,1,earist,3,1,cs,2,2,0,Not Prefer,1,Low,0,Not Prefer,1,Low,11,High,0,Not Prefer,3,Low,0,Not Prefer,"0,1,0,1,11,0,3,0",2,2,1,1,Low,Low,High,Low,VV,Input,Interactive code
+126,1,earist,4,2,cs,2,1,0,Not Prefer,11,High,1,Low,0,Not Prefer,0,Not Prefer,1,Low,0,Not Prefer,3,Low,"0,11,1,0,0,1,0,3",2,1,2,2,High,Low,Low,Low,AR,Processing,Independent Coding
+127,1,earist,3,1,cs,2,2,3,Low,0,Not Prefer,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"3,0,0,3,5,0,0,3",1,2,1,2,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+128,1,earist,3,1,cs,2,2,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,"0,1,7,0,1,0,7,0",2,1,1,1,Low,Moderate,Low,Moderate,SI,Perception,Step-by-step Coding
+129,1,earist,3,1,cs,3,1,1,Low,0,Not Prefer,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"1,0,3,0,7,0,0,1",1,1,1,2,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+130,1,earist,3,1,cs,2,1,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"0,3,0,5,7,0,0,1",2,2,1,2,Low,Moderate,Moderate,Low,SI,Perception,Coding Pattern
+131,1,earist,3,1,cs,3,1,0,Not Prefer,3,Low,3,Low,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"0,3,3,0,1,0,3,0",2,1,1,1,Low,Low,Low,Low,AR,Processing,Group Coding
+132,1,earist,3,2,cs,3,2,0,Not Prefer,3,Low,9,High,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,3,Low,"0,3,9,0,0,3,0,3",2,1,2,2,Low,High,Low,Low,SI,Perception,Practical Lab
+133,1,earist,3,2,cs,2,1,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"1,0,5,0,7,0,5,0",1,1,1,1,Low,Moderate,Moderate,Moderate,SI,Perception,Step-by-step Coding
+134,2,la consolacion,1,1,it,1,2,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,1,Low,0,Not Prefer,"0,3,0,5,0,7,1,0",2,2,2,1,Low,Moderate,Moderate,Low,SI,Perception,Coding Pattern
+135,2,la consolacion,1,1,it,1,2,3,Low,0,Not Prefer,9,High,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"3,0,9,0,1,0,3,0",1,1,1,1,Low,High,Low,Low,SI,Perception,Practical Lab
+136,2,la consolacion,1,1,it,1,1,0,Not Prefer,1,Low,1,Low,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"0,1,1,0,1,0,3,0",2,1,1,1,Low,Low,Low,Low,AR,Processing,Group Coding
+137,2,la consolacion,1,1,it,3,2,0,Not Prefer,5,Moderate,7,Moderate,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,1,Low,"0,5,7,0,9,0,0,1",2,1,1,2,Moderate,Moderate,High,Low,VV,Input,Interactive code
+138,2,la consolacion,1,1,it,1,1,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,1,5,0,3,0,1,0",2,1,1,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+139,2,la consolacion,1,1,it,1,2,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,"0,1,7,0,7,0,7,0",2,1,1,1,Low,Moderate,Moderate,Moderate,SI,Perception,Step-by-step Coding
+140,2,la consolacion,1,1,it,1,1,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,"5,0,5,0,7,0,7,0",1,1,1,1,Moderate,Moderate,Moderate,Moderate,AR,Processing,Hands-On Labs
+141,2,la consolacion,1,2,it,1,2,0,Not Prefer,1,Low,1,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,1,Low,"0,1,1,0,1,0,0,1",2,1,1,2,Low,Low,Low,Low,AR,Processing,Group Coding
+142,2,la consolacion,1,1,it,3,2,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"0,1,0,7,5,0,0,3",2,2,1,2,Low,Moderate,Moderate,Low,SI,Perception,Coding Pattern
+143,2,la consolacion,1,1,it,1,1,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"5,0,3,0,5,0,1,0",1,1,1,1,Moderate,Low,Moderate,Low,AR,Processing,Hands-On Labs
+144,2,la consolacion,1,1,it,3,1,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,3,Low,0,Not Prefer,0,Not Prefer,3,Low,"0,5,0,3,3,0,0,3",2,2,1,2,Moderate,Low,Low,Low,AR,Processing,Concept Mapping
+145,2,la consolacion,1,1,it,1,2,3,Low,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"3,0,1,0,7,0,1,0",1,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+146,2,la consolacion,1,1,it,1,1,1,Low,0,Not Prefer,9,High,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,3,Low,"1,0,9,0,9,0,0,3",1,1,1,2,Low,High,High,Low,SI,Perception,Practical Lab
+147,2,la consolacion,1,2,it,3,1,0,Not Prefer,3,Low,0,Not Prefer,3,Low,0,Not Prefer,3,Low,1,Low,0,Not Prefer,"0,3,0,3,0,3,1,0",2,2,2,1,Low,Low,Low,Low,AR,Processing,Group Coding
+148,2,la consolacion,1,1,it,3,1,3,Low,0,Not Prefer,0,Not Prefer,1,Low,0,Not Prefer,3,Low,9,High,0,Not Prefer,"3,0,0,1,0,3,9,0",1,2,2,1,Low,Low,Low,High,SG,Understanding,Detailed Plans
+149,2,la consolacion,1,1,it,1,2,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,"3,0,7,0,0,5,5,0",1,1,2,1,Low,Moderate,Moderate,Moderate,SI,Perception,Step-by-step Coding
+150,2,la consolacion,1,2,it,2,1,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,0,Not Prefer,1,Low,"3,0,5,0,0,1,0,1",1,1,2,2,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+151,2,la consolacion,1,1,it,3,2,0,Not Prefer,1,Low,3,Low,0,Not Prefer,11,High,0,Not Prefer,0,Not Prefer,3,Low,"0,1,3,0,11,0,0,3",2,1,1,2,Low,Low,High,Low,VV,Input,Interactive code
+152,2,la consolacion,1,1,it,1,2,0,Not Prefer,3,Low,1,Low,0,Not Prefer,3,Low,0,Not Prefer,3,Low,0,Not Prefer,"0,3,1,0,3,0,3,0",2,1,1,1,Low,Low,Low,Low,AR,Processing,Group Coding
+153,2,la consolacion,1,1,it,1,1,0,Not Prefer,1,Low,1,Low,0,Not Prefer,9,High,0,Not Prefer,5,Moderate,0,Not Prefer,"0,1,1,0,9,0,5,0",2,1,1,1,Low,Low,High,Moderate,VV,Input,Interactive code
+154,2,la consolacion,1,2,it,1,2,1,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,"1,0,1,0,0,5,0,3",1,1,2,2,Low,Low,Moderate,Low,VV,Input,Reading and Explaining
+155,2,la consolacion,1,1,it,1,1,0,Not Prefer,3,Low,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,3,3,0,5,0,1,0",2,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+156,2,la consolacion,1,1,it,1,1,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,1,Low,"0,1,0,1,0,3,0,1",2,2,2,2,Low,Low,Low,Low,AR,Processing,Group Coding
+157,2,la consolacion,1,1,it,1,1,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"5,0,0,1,7,0,3,0",1,2,1,1,Moderate,Low,Moderate,Low,AR,Processing,Hands-On Labs
+158,1,earist,2,1,cs,1,1,11,High,0,Not Prefer,11,High,0,Not Prefer,11,High,0,Not Prefer,11,High,0,Not Prefer,"11,0,11,0,11,0,11,0",1,1,1,1,High,High,High,High,AR,Processing,Collaborative Projects
+159,1,earist,2,1,cs,3,1,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"3,0,5,0,7,0,0,1",1,1,1,2,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+160,1,earist,2,3,cs,2,1,0,Not Prefer,11,High,3,Low,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,11,3,0,3,0,1,0",2,1,1,1,High,Low,Low,Low,AR,Processing,Independent Coding
+161,1,earist,2,1,cs,2,2,0,Not Prefer,7,Moderate,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,3,Low,0,Not Prefer,"0,7,5,0,0,3,3,0",2,1,2,1,Moderate,Moderate,Low,Low,AR,Processing,Concept Mapping
+162,1,earist,2,1,cs,2,1,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"7,0,5,0,7,0,1,0",1,1,1,1,Moderate,Moderate,Moderate,Low,AR,Processing,Hands-On Labs
+163,1,earist,2,1,cs,3,1,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,1,Low,0,Not Prefer,1,Low,0,Not Prefer,"5,0,0,3,1,0,1,0",1,2,1,1,Moderate,Low,Low,Low,AR,Processing,Hands-On Labs
+164,1,earist,2,1,cs,1,1,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"1,0,5,0,5,0,1,0",1,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+165,1,earist,2,1,cs,1,1,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"7,0,1,0,7,0,1,0",1,1,1,1,Moderate,Low,Moderate,Low,AR,Processing,Hands-On Labs
+166,1,earist,2,1,cs,1,1,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,1,Low,"7,0,0,3,0,1,0,1",1,2,2,2,Moderate,Low,Low,Low,AR,Processing,Hands-On Labs
+167,1,earist,2,1,cs,1,1,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,3,0,5,3,0,1,0",2,2,1,1,Low,Moderate,Low,Low,SI,Perception,Coding Pattern
+168,1,earist,2,1,cs,3,1,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,3,Low,3,Low,0,Not Prefer,"0,3,0,1,0,3,3,0",2,2,2,1,Low,Low,Low,Low,AR,Processing,Group Coding
+169,1,earist,2,1,cs,1,2,0,Not Prefer,1,Low,0,Not Prefer,3,Low,1,Low,0,Not Prefer,0,Not Prefer,3,Low,"0,1,0,3,1,0,0,3",2,2,1,2,Low,Low,Low,Low,AR,Processing,Group Coding
+170,1,earist,2,1,cs,2,1,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"5,0,7,0,7,0,3,0",1,1,1,1,Moderate,Moderate,Moderate,Low,AR,Processing,Hands-On Labs
+171,1,earist,2,1,cs,3,2,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,"3,0,7,0,1,0,1,0",1,1,1,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+172,1,earist,2,1,cs,1,2,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,3,Low,"1,0,5,0,3,0,0,3",1,1,1,2,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+173,1,earist,2,1,cs,3,2,1,Low,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,1,Low,"1,0,0,3,0,1,0,1",1,2,2,2,Low,Low,Low,Low,AR,Processing,Individual Learning
+174,1,earist,2,1,cs,1,2,0,Not Prefer,1,Low,0,Not Prefer,1,Low,9,High,0,Not Prefer,0,Not Prefer,1,Low,"0,1,0,1,9,0,0,1",2,2,1,2,Low,Low,High,Low,VV,Input,Interactive code
+175,1,earist,2,1,cs,3,1,3,Low,0,Not Prefer,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,1,Low,"3,0,0,5,0,3,0,1",1,2,2,2,Low,Moderate,Low,Low,SI,Perception,Coding Pattern
+176,1,earist,2,1,cs,1,1,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,9,High,0,Not Prefer,"1,0,7,0,3,0,9,0",1,1,1,1,Low,Moderate,Low,High,SG,Understanding,Detailed Plans
+177,1,earist,2,1,cs,2,1,0,Not Prefer,1,Low,11,High,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,1,11,0,3,0,1,0",2,1,1,1,Low,High,Low,Low,SI,Perception,Practical Lab
+178,1,earist,2,1,cs,1,2,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,9,High,0,Not Prefer,"0,1,5,0,0,3,9,0",2,1,2,1,Low,Moderate,Low,High,SG,Understanding,Detailed Plans
+179,1,earist,2,1,cs,2,1,0,Not Prefer,1,Low,9,High,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"0,1,9,0,7,0,5,0",2,1,1,1,Low,High,Moderate,Moderate,SI,Perception,Practical Lab
+180,1,earist,2,1,cs,3,1,3,Low,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,1,Low,1,Low,0,Not Prefer,"3,0,3,0,0,1,1,0",1,1,2,1,Low,Low,Low,Low,AR,Processing,Individual Learning
+181,1,earist,2,1,cs,3,1,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"3,0,7,0,7,0,1,0",1,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+182,1,earist,2,1,cs,3,1,3,Low,0,Not Prefer,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,1,Low,"3,0,0,7,0,1,0,1",1,2,2,2,Low,Moderate,Low,Low,SI,Perception,Coding Pattern
+183,1,earist,2,1,cs,3,1,1,Low,0,Not Prefer,9,High,0,Not Prefer,11,High,0,Not Prefer,1,Low,0,Not Prefer,"1,0,9,0,11,0,1,0",1,1,1,1,Low,High,High,Low,SI,Perception,Practical Lab
+184,1,earist,2,1,cs,1,2,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,11,High,0,Not Prefer,0,Not Prefer,1,Low,"5,0,5,0,11,0,0,1",1,1,1,2,Moderate,Moderate,High,Low,VV,Input,Interactive code
+185,1,earist,2,1,cs,3,2,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,11,High,0,Not Prefer,5,Moderate,0,Not Prefer,"1,0,5,0,11,0,5,0",1,1,1,1,Low,Moderate,High,Moderate,VV,Input,Interactive code
+186,1,earist,2,1,cs,3,2,0,Not Prefer,1,Low,3,Low,0,Not Prefer,0,Not Prefer,1,Low,1,Low,0,Not Prefer,"0,1,3,0,0,1,1,0",2,1,2,1,Low,Low,Low,Low,AR,Processing,Group Coding
+187,1,earist,2,1,cs,2,1,0,Not Prefer,1,Low,3,Low,0,Not Prefer,0,Not Prefer,1,Low,0,Not Prefer,3,Low,"0,1,3,0,0,1,0,3",2,1,2,2,Low,Low,Low,Low,AR,Processing,Group Coding
+188,1,earist,2,1,cs,3,1,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"5,0,3,0,5,0,3,0",1,1,1,1,Moderate,Low,Moderate,Low,AR,Processing,Hands-On Labs
+189,1,earist,2,1,cs,3,1,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,9,High,0,Not Prefer,"1,0,5,0,3,0,9,0",1,1,1,1,Low,Moderate,Low,High,SG,Understanding,Detailed Plans
+190,1,earist,2,1,cs,3,1,1,Low,0,Not Prefer,0,Not Prefer,1,Low,11,High,0,Not Prefer,3,Low,0,Not Prefer,"1,0,0,1,11,0,3,0",1,2,1,1,Low,Low,High,Low,VV,Input,Interactive code
+191,1,earist,2,1,cs,2,1,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,3,Low,"0,3,0,1,0,1,0,3",2,2,2,2,Low,Low,Low,Low,AR,Processing,Group Coding
+192,1,earist,2,1,cs,1,1,1,Low,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,"1,0,9,0,0,5,0,1",1,1,2,2,Low,High,Moderate,Low,SI,Perception,Practical Lab
+193,1,earist,2,1,cs,3,1,0,Not Prefer,1,Low,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,1,1,0,5,0,1,0",2,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+194,1,earist,2,1,cs,3,1,3,Low,0,Not Prefer,3,Low,0,Not Prefer,11,High,0,Not Prefer,0,Not Prefer,1,Low,"3,0,3,0,11,0,0,1",1,1,1,2,Low,Low,High,Low,VV,Input,Interactive code
+195,1,earist,2,1,cs,3,1,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,11,High,0,Not Prefer,5,Moderate,0,Not Prefer,"1,0,5,0,11,0,5,0",1,1,1,1,Low,Moderate,High,Moderate,VV,Input,Interactive code
+196,1,earist,2,1,cs,3,1,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,9,High,0,Not Prefer,1,Low,0,Not Prefer,"5,0,1,0,9,0,1,0",1,1,1,1,Moderate,Low,High,Low,VV,Input,Interactive code
+197,1,earist,2,1,cs,3,1,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,"5,0,7,0,1,0,7,0",1,1,1,1,Moderate,Moderate,Low,Moderate,AR,Processing,Hands-On Labs
+198,1,earist,2,1,cs,3,1,0,Not Prefer,3,Low,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,"0,3,1,0,5,0,7,0",2,1,1,1,Low,Low,Moderate,Moderate,VV,Input,Visual Code Flowcharts
+199,1,earist,2,1,cs,3,1,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,1,Low,0,Not Prefer,"1,0,5,0,0,1,1,0",1,1,2,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+200,1,earist,2,1,cs,3,1,1,Low,0,Not Prefer,9,High,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"1,0,9,0,7,0,0,1",1,1,1,2,Low,High,Moderate,Low,SI,Perception,Practical Lab
+201,1,earist,2,1,cs,1,1,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,1,Low,"0,1,5,0,9,0,0,1",2,1,1,2,Low,Moderate,High,Low,VV,Input,Interactive code
+202,1,earist,2,1,cs,3,1,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"5,0,5,0,7,0,1,0",1,1,1,1,Moderate,Moderate,Moderate,Low,AR,Processing,Hands-On Labs
+203,1,earist,2,1,cs,2,1,1,Low,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"1,0,3,0,5,0,0,3",1,1,1,2,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+204,1,earist,2,1,cs,3,1,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,"0,0,0,0,0,0,0,0",0,0,0,0,,,,,,,
+205,1,earist,2,1,cs,3,2,1,Low,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"1,0,1,0,1,0,3,0",1,1,1,1,Low,Low,Low,Low,AR,Processing,Individual Learning
+206,1,earist,2,1,cs,2,2,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,"3,0,5,0,3,0,5,0",1,1,1,1,Low,Moderate,Low,Moderate,SI,Perception,Step-by-step Coding
+207,1,earist,2,1,cs,3,1,0,Not Prefer,3,Low,0,Not Prefer,1,Low,1,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,3,0,1,1,0,1,0",2,2,1,1,Low,Low,Low,Low,AR,Processing,Group Coding
+208,1,earist,2,1,cs,3,1,3,Low,0,Not Prefer,0,Not Prefer,5,Moderate,1,Low,0,Not Prefer,0,Not Prefer,5,Moderate,"3,0,0,5,1,0,0,5",1,2,1,2,Low,Moderate,Low,Moderate,SI,Perception,Coding Pattern
+209,1,earist,2,1,cs,1,2,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,3,Low,0,Not Prefer,3,Low,0,Not Prefer,"5,0,0,3,3,0,3,0",1,2,1,1,Moderate,Low,Low,Low,AR,Processing,Hands-On Labs
+210,1,earist,2,1,cs,3,2,7,Moderate,0,Not Prefer,9,High,0,Not Prefer,11,High,0,Not Prefer,9,High,0,Not Prefer,"7,0,9,0,11,0,9,0",1,1,1,1,Moderate,High,High,High,SI,Perception,Practical Lab
+211,1,earist,2,1,cs,3,1,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"3,0,5,0,7,0,1,0",1,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+212,1,earist,2,1,cs,1,1,1,Low,0,Not Prefer,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"1,0,3,0,7,0,3,0",1,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+213,1,earist,2,1,cs,3,2,3,Low,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"3,0,1,0,7,0,1,0",1,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+214,1,earist,2,1,cs,3,1,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"5,0,1,0,5,0,0,1",1,1,1,2,Moderate,Low,Moderate,Low,AR,Processing,Hands-On Labs
+215,1,earist,2,2,cs,3,2,9,High,0,Not Prefer,0,Not Prefer,1,Low,1,Low,0,Not Prefer,0,Not Prefer,1,Low,"9,0,0,1,1,0,0,1",1,2,1,2,High,Low,Low,Low,AR,Processing,Collaborative Projects
+216,1,earist,2,2,cs,3,1,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"3,0,7,0,3,0,1,0",1,1,1,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+217,1,earist,2,1,cs,3,2,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"1,0,7,0,5,0,5,0",1,1,1,1,Low,Moderate,Moderate,Moderate,SI,Perception,Step-by-step Coding
+218,1,earist,2,1,cs,3,1,0,Not Prefer,3,Low,3,Low,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,3,3,0,3,0,1,0",2,1,1,1,Low,Low,Low,Low,AR,Processing,Group Coding
+219,1,earist,2,1,cs,3,2,1,Low,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"1,0,1,0,5,0,0,3",1,1,1,2,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+220,1,earist,2,1,cs,3,1,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"5,0,7,0,7,0,0,3",1,1,1,2,Moderate,Moderate,Moderate,Low,AR,Processing,Hands-On Labs
+221,1,earist,2,1,cs,1,2,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,1,Low,"3,0,5,0,9,0,0,1",1,1,1,2,Low,Moderate,High,Low,VV,Input,Interactive code
+222,1,earist,2,1,cs,1,1,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,3,5,0,7,0,1,0",2,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+223,1,earist,2,2,cs,1,2,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"5,0,1,0,5,0,0,3",1,1,1,2,Moderate,Low,Moderate,Low,AR,Processing,Hands-On Labs
+224,1,earist,2,1,cs,3,1,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"7,0,7,0,5,0,1,0",1,1,1,1,Moderate,Moderate,Moderate,Low,AR,Processing,Hands-On Labs
+225,1,earist,2,1,cs,1,1,11,High,0,Not Prefer,7,Moderate,0,Not Prefer,11,High,0,Not Prefer,11,High,0,Not Prefer,"11,0,7,0,11,0,11,0",1,1,1,1,High,Moderate,High,High,AR,Processing,Collaborative Projects
+226,1,earist,2,1,cs,3,1,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"1,0,7,0,5,0,3,0",1,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+227,1,earist,2,1,cs,3,1,1,Low,0,Not Prefer,0,Not Prefer,5,Moderate,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"1,0,0,5,7,0,3,0",1,2,1,1,Low,Moderate,Moderate,Low,SI,Perception,Coding Pattern
+228,1,earist,2,1,cs,2,2,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,"3,0,7,0,0,3,5,0",1,1,2,1,Low,Moderate,Low,Moderate,SI,Perception,Step-by-step Coding
+229,1,earist,2,1,cs,3,1,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"1,0,7,0,5,0,3,0",1,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+230,1,earist,2,1,cs,2,1,0,Not Prefer,7,Moderate,0,Not Prefer,7,Moderate,11,High,0,Not Prefer,3,Low,0,Not Prefer,"0,7,0,7,11,0,3,0",2,2,1,1,Moderate,Moderate,High,Low,VV,Input,Interactive code
+231,1,earist,2,1,cs,2,2,0,Not Prefer,3,Low,3,Low,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,1,Low,"0,3,3,0,0,3,0,1",2,1,2,2,Low,Low,Low,Low,AR,Processing,Group Coding
+232,1,earist,2,1,cs,1,2,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,"5,0,1,0,0,3,5,0",1,1,2,1,Moderate,Low,Low,Moderate,AR,Processing,Hands-On Labs
+233,1,earist,2,1,cs,1,2,3,Low,0,Not Prefer,3,Low,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,5,Moderate,"3,0,3,0,3,0,0,5",1,1,1,2,Low,Low,Low,Moderate,SG,Understanding,Holistic-Problem Solving
+234,1,earist,2,1,cs,3,2,0,Not Prefer,1,Low,9,High,0,Not Prefer,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,"0,1,9,0,0,1,0,5",2,1,2,2,Low,High,Low,Moderate,SI,Perception,Practical Lab
+235,1,earist,2,1,cs,1,1,0,Not Prefer,3,Low,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,5,Moderate,"0,3,7,0,5,0,0,5",2,1,1,2,Low,Moderate,Moderate,Moderate,SI,Perception,Step-by-step Coding
+236,1,earist,2,1,cs,1,2,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"0,1,7,0,7,0,0,1",2,1,1,2,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+237,1,earist,2,1,cs,3,2,0,Not Prefer,7,Moderate,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"0,7,7,0,1,0,3,0",2,1,1,1,Moderate,Moderate,Low,Low,AR,Processing,Concept Mapping
+238,1,earist,2,1,cs,1,2,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,1,Low,"5,0,7,0,9,0,0,1",1,1,1,2,Moderate,Moderate,High,Low,VV,Input,Interactive code
+239,1,earist,2,1,cs,3,2,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,3,Low,"0,5,5,0,0,3,0,3",2,1,2,2,Moderate,Moderate,Low,Low,AR,Processing,Concept Mapping
+240,1,earist,2,1,cs,2,2,1,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,1,Low,0,Not Prefer,1,Low,"1,0,1,0,0,1,0,1",1,1,2,2,Low,Low,Low,Low,AR,Processing,Individual Learning
+241,1,earist,2,1,cs,3,1,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,9,High,0,Not Prefer,7,Moderate,0,Not Prefer,"0,1,0,5,9,0,7,0",2,2,1,1,Low,Moderate,High,Moderate,VV,Input,Interactive code
+242,1,earist,2,1,cs,3,1,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,1,Low,0,Not Prefer,"0,1,5,0,0,1,1,0",2,1,2,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+243,1,earist,2,1,cs,3,1,1,Low,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,5,Moderate,"1,0,1,0,7,0,0,5",1,1,1,2,Low,Low,Moderate,Moderate,VV,Input,Visual Code Flowcharts
+244,1,earist,2,1,cs,3,2,1,Low,0,Not Prefer,0,Not Prefer,5,Moderate,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"1,0,0,5,7,0,0,1",1,2,1,2,Low,Moderate,Moderate,Low,SI,Perception,Coding Pattern
+245,1,earist,2,1,cs,3,1,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"5,0,1,0,1,0,3,0",1,1,1,1,Moderate,Low,Low,Low,AR,Processing,Hands-On Labs
+246,1,earist,2,1,cs,3,1,0,Not Prefer,3,Low,1,Low,0,Not Prefer,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,"0,3,1,0,0,1,0,5",2,1,2,2,Low,Low,Low,Moderate,SG,Understanding,Holistic-Problem Solving
+247,1,earist,3,2,cs,2,1,1,Low,0,Not Prefer,1,Low,0,Not Prefer,11,High,0,Not Prefer,1,Low,0,Not Prefer,"1,0,1,0,11,0,1,0",1,1,1,1,Low,Low,High,Low,VV,Input,Interactive code
+248,1,earist,2,1,cs,3,1,1,Low,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"1,0,3,0,5,0,1,0",1,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+249,1,earist,2,1,cs,1,2,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,1,5,0,5,0,1,0",2,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+250,1,earist,2,1,cs,3,1,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,9,High,0,Not Prefer,0,Not Prefer,3,Low,"0,1,0,7,9,0,0,3",2,2,1,2,Low,Moderate,High,Low,VV,Input,Interactive code
+251,1,earist,2,1,cs,3,1,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,9,High,0,Not Prefer,0,Not Prefer,3,Low,"0,1,0,7,9,0,0,3",2,2,1,2,Low,Moderate,High,Low,VV,Input,Interactive code
+252,1,earist,2,1,cs,3,2,0,Not Prefer,5,Moderate,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,5,1,0,7,0,1,0",2,1,1,1,Moderate,Low,Moderate,Low,AR,Processing,Concept Mapping
+253,1,earist,2,1,cs,3,2,0,Not Prefer,9,High,0,Not Prefer,5,Moderate,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"0,9,0,5,7,0,0,3",2,2,1,2,High,Moderate,Moderate,Low,AR,Processing,Independent Coding
+254,1,earist,2,1,cs,3,1,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"5,0,7,0,7,0,5,0",1,1,1,1,Moderate,Moderate,Moderate,Moderate,AR,Processing,Hands-On Labs
+255,1,earist,2,1,cs,3,2,0,Not Prefer,3,Low,0,Not Prefer,1,Low,9,High,0,Not Prefer,5,Moderate,0,Not Prefer,"0,3,0,1,9,0,5,0",2,2,1,1,Low,Low,High,Moderate,VV,Input,Interactive code
+256,1,earist,2,1,cs,3,1,0,Not Prefer,9,High,0,Not Prefer,7,Moderate,11,High,0,Not Prefer,0,Not Prefer,5,Moderate,"0,9,0,7,11,0,0,5",2,2,1,2,High,Moderate,High,Moderate,AR,Processing,Independent Coding
+257,1,earist,2,1,cs,3,1,0,Not Prefer,1,Low,3,Low,0,Not Prefer,11,High,0,Not Prefer,1,Low,0,Not Prefer,"0,1,3,0,11,0,1,0",2,1,1,1,Low,Low,High,Low,VV,Input,Interactive code
+258,1,earist,2,1,cs,3,1,3,Low,0,Not Prefer,1,Low,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,3,Low,"3,0,1,0,9,0,0,3",1,1,1,2,Low,Low,High,Low,VV,Input,Interactive code
+259,1,earist,2,1,cs,3,1,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,1,Low,0,Not Prefer,0,Not Prefer,1,Low,"0,5,0,1,1,0,0,1",2,2,1,2,Moderate,Low,Low,Low,AR,Processing,Concept Mapping
+260,1,earist,1,1,cs,3,2,0,Not Prefer,3,Low,0,Not Prefer,3,Low,11,High,0,Not Prefer,1,Low,0,Not Prefer,"0,3,0,3,11,0,1,0",2,2,1,1,Low,Low,High,Low,VV,Input,Interactive code
+261,1,earist,1,1,cs,1,1,0,Not Prefer,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,"0,7,0,7,0,7,0,1",2,2,2,2,Moderate,Moderate,Moderate,Low,AR,Processing,Concept Mapping
+262,1,earist,1,1,cs,3,1,0,Not Prefer,9,High,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,5,Moderate,"0,9,5,0,1,0,0,5",2,1,1,2,High,Moderate,Low,Moderate,AR,Processing,Independent Coding
+263,1,earist,1,1,cs,1,1,0,Not Prefer,1,Low,1,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,1,Low,"0,1,1,0,1,0,0,1",2,1,1,2,Low,Low,Low,Low,AR,Processing,Group Coding
+264,1,earist,1,2,cs,1,1,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"7,0,1,0,1,0,3,0",1,1,1,1,Moderate,Low,Low,Low,AR,Processing,Hands-On Labs
+265,1,earist,4,1,cs,3,2,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,9,High,0,Not Prefer,3,Low,0,Not Prefer,"0,1,7,0,9,0,3,0",2,1,1,1,Low,Moderate,High,Low,VV,Input,Interactive code
+266,1,earist,1,1,cs,3,2,3,Low,0,Not Prefer,9,High,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"3,0,9,0,7,0,3,0",1,1,1,1,Low,High,Moderate,Low,SI,Perception,Practical Lab
+267,1,earist,1,1,cs,3,2,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"3,0,7,0,1,0,3,0",1,1,1,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+268,1,earist,1,1,cs,3,2,0,Not Prefer,9,High,1,Low,0,Not Prefer,0,Not Prefer,1,Low,0,Not Prefer,1,Low,"0,9,1,0,0,1,0,1",2,1,2,2,High,Low,Low,Low,AR,Processing,Independent Coding
+269,1,earist,1,1,cs,1,2,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"0,1,5,0,5,0,0,1",2,1,1,2,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+270,1,earist,1,1,cs,3,1,1,Low,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,1,Low,"1,0,1,0,1,0,0,1",1,1,1,2,Low,Low,Low,Low,AR,Processing,Individual Learning
+271,1,earist,4,1,cs,3,1,3,Low,0,Not Prefer,0,Not Prefer,5,Moderate,3,Low,0,Not Prefer,0,Not Prefer,3,Low,"3,0,0,5,3,0,0,3",1,2,1,2,Low,Moderate,Low,Low,SI,Perception,Coding Pattern
+272,1,earist,1,1,cs,1,2,0,Not Prefer,1,Low,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"0,1,3,0,5,0,0,1",2,1,1,2,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+273,1,earist,1,1,cs,1,1,0,Not Prefer,3,Low,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,3,1,0,5,0,1,0",2,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+274,1,earist,3,2,cs,3,1,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,3,Low,0,Not Prefer,"5,0,7,0,0,1,3,0",1,1,2,1,Moderate,Moderate,Low,Low,AR,Processing,Hands-On Labs
+275,1,earist,4,1,cs,3,2,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,"0,1,7,0,0,1,5,0",2,1,2,1,Low,Moderate,Low,Moderate,SI,Perception,Step-by-step Coding
+276,1,earist,1,1,cs,2,1,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,"0,3,5,0,0,5,0,5",2,1,2,2,Low,Moderate,Moderate,Moderate,SI,Perception,Step-by-step Coding
+277,1,earist,1,1,cs,3,1,0,Not Prefer,1,Low,3,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,1,Low,"0,1,3,0,1,0,0,1",2,1,1,2,Low,Low,Low,Low,AR,Processing,Group Coding
+278,1,earist,1,1,cs,2,2,0,Not Prefer,9,High,7,Moderate,0,Not Prefer,0,Not Prefer,7,Moderate,5,Moderate,0,Not Prefer,"0,9,7,0,0,7,5,0",2,1,2,1,High,Moderate,Moderate,Moderate,AR,Processing,Independent Coding
+279,1,earist,4,1,cs,3,1,3,Low,0,Not Prefer,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"3,0,3,0,7,0,0,1",1,1,1,2,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+280,1,earist,1,1,cs,1,1,1,Low,0,Not Prefer,6,Moderate,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"1,0,6,0,3,0,1,0",1,1,1,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+281,1,earist,1,1,cs,3,1,1,Low,0,Not Prefer,0,Not Prefer,3,Low,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"1,0,0,3,7,0,3,0",1,2,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+282,1,earist,3,1,it,3,2,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,"5,0,0,3,0,1,5,0",1,2,2,1,Moderate,Low,Low,Moderate,AR,Processing,Hands-On Labs
+283,1,earist,4,1,cs,3,2,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"1,0,7,0,5,0,0,3",1,1,1,2,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+284,1,earist,2,1,it,1,1,3,Low,0,Not Prefer,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"3,0,0,1,5,0,5,0",1,2,1,1,Low,Low,Moderate,Moderate,VV,Input,Visual Code Flowcharts
+285,1,earist,2,1,it,1,1,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,"0,1,5,0,3,0,7,0",2,1,1,1,Low,Moderate,Low,Moderate,SI,Perception,Step-by-step Coding
+286,1,earist,2,1,it,2,1,0,Not Prefer,1,Low,1,Low,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,"0,1,1,0,1,0,7,0",2,1,1,1,Low,Low,Low,Moderate,SG,Understanding,Structured Outlines
+287,1,earist,2,1,it,3,1,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"1,0,5,0,5,0,3,0",1,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+288,1,earist,2,1,it,1,2,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,1,Low,"1,0,7,0,1,0,0,1",1,1,1,2,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+289,1,earist,2,1,it,1,1,0,Not Prefer,3,Low,0,Not Prefer,3,Low,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,3,0,3,7,0,1,0",2,2,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+290,1,earist,2,1,it,3,1,0,Not Prefer,1,Low,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,1,3,0,7,0,1,0",2,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+291,1,earist,2,1,it,1,1,0,Not Prefer,3,Low,0,Not Prefer,1,Low,9,High,0,Not Prefer,0,Not Prefer,3,Low,"0,3,0,1,9,0,0,3",2,2,1,2,Low,Low,High,Low,VV,Input,Interactive code
+292,1,earist,2,1,it,3,2,3,Low,0,Not Prefer,3,Low,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"3,0,3,0,3,0,1,0",1,1,1,1,Low,Low,Low,Low,AR,Processing,Individual Learning
+293,1,earist,2,1,it,3,1,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,5,0,3,5,0,1,0",2,2,1,1,Moderate,Low,Moderate,Low,AR,Processing,Concept Mapping
+294,1,earist,2,1,it,3,1,3,Low,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,3,Low,0,Not Prefer,"3,0,1,0,3,0,3,0",1,1,1,1,Low,Low,Low,Low,AR,Processing,Individual Learning
+295,1,earist,2,2,it,3,1,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,5,Moderate,0,Not Prefer,"0,3,5,0,9,0,5,0",2,1,1,1,Low,Moderate,High,Moderate,VV,Input,Interactive code
+296,1,earist,2,1,it,2,2,3,Low,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"3,0,3,0,5,0,1,0",1,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+297,1,earist,2,1,it,3,2,1,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,"1,0,1,0,0,5,0,1",1,1,2,2,Low,Low,Moderate,Low,VV,Input,Reading and Explaining
+298,1,earist,2,1,it,3,1,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,"0,3,5,0,5,0,7,0",2,1,1,1,Low,Moderate,Moderate,Moderate,SI,Perception,Step-by-step Coding
+299,1,earist,2,1,it,3,1,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,1,Low,"3,0,7,0,1,0,0,1",1,1,1,2,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+300,1,earist,2,1,it,3,1,7,Moderate,0,Not Prefer,0,Not Prefer,5,Moderate,3,Low,0,Not Prefer,9,High,0,Not Prefer,"7,0,0,5,3,0,9,0",1,2,1,1,Moderate,Moderate,Low,High,SG,Understanding,Detailed Plans
+301,1,earist,2,1,it,3,1,0,Not Prefer,1,Low,9,High,0,Not Prefer,11,High,0,Not Prefer,1,Low,0,Not Prefer,"0,1,9,0,11,0,1,0",2,1,1,1,Low,High,High,Low,SI,Perception,Practical Lab
+302,2,earist,2,1,it,3,1,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"0,3,0,5,7,0,0,3",2,2,1,2,Low,Moderate,Moderate,Low,SI,Perception,Coding Pattern
+303,1,earist,2,1,it,1,2,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,11,High,0,Not Prefer,1,Low,0,Not Prefer,"0,5,5,0,11,0,1,0",2,1,1,1,Moderate,Moderate,High,Low,VV,Input,Interactive code
+304,1,earist,2,1,it,3,1,1,Low,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,"1,0,1,0,1,0,1,0",1,1,1,1,Low,Low,Low,Low,AR,Processing,Individual Learning
+305,1,earist,2,1,it,3,1,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"0,3,5,0,1,0,3,0",2,1,1,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+306,1,earist,2,1,it,1,2,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"1,0,5,0,5,0,0,1",1,1,1,2,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+307,1,earist,2,1,it,2,1,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"0,1,7,0,1,0,3,0",2,1,1,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+308,2,earist,2,1,it,3,2,0,Not Prefer,3,Low,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"0,3,3,0,7,0,0,1",2,1,1,2,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+309,1,earist,2,1,it,3,2,1,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,1,Low,"1,0,1,0,0,3,0,1",1,1,2,2,Low,Low,Low,Low,AR,Processing,Individual Learning
+310,1,earist,2,1,it,3,1,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,7,Moderate,0,Not Prefer,"7,0,5,0,0,3,7,0",1,1,2,1,Moderate,Moderate,Low,Moderate,AR,Processing,Hands-On Labs
+311,1,earist,2,1,it,3,1,3,Low,0,Not Prefer,0,Not Prefer,5,Moderate,3,Low,0,Not Prefer,0,Not Prefer,1,Low,"3,0,0,5,3,0,0,1",1,2,1,2,Low,Moderate,Low,Low,SI,Perception,Coding Pattern
+312,1,earist,4,1,cs,3,2,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,11,High,0,Not Prefer,5,Moderate,0,Not Prefer,"0,3,5,0,11,0,5,0",2,1,1,1,Low,Moderate,High,Moderate,VV,Input,Interactive code
+313,1,earist,2,1,it,1,2,3,Low,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,3,Low,"3,0,3,0,1,0,0,3",1,1,1,2,Low,Low,Low,Low,AR,Processing,Individual Learning
+314,1,earist,2,1,it,1,2,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"7,0,3,0,7,0,5,0",1,1,1,1,Moderate,Low,Moderate,Moderate,AR,Processing,Hands-On Labs
+315,1,earist,2,1,it,3,1,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,"0,0,0,0,0,0,0,0",0,0,0,0,,,,,,,
+316,1,earist,2,1,it,3,1,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,1,Low,"1,0,5,0,9,0,0,1",1,1,1,2,Low,Moderate,High,Low,VV,Input,Interactive code
+317,1,earist,2,1,it,3,1,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,3,Low,0,Not Prefer,0,Not Prefer,5,Moderate,"7,0,0,3,3,0,0,5",1,2,1,2,Moderate,Low,Low,Moderate,AR,Processing,Hands-On Labs
+318,1,earist,2,1,it,3,1,9,High,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,"9,0,7,0,0,1,5,0",1,1,2,1,High,Moderate,Low,Moderate,AR,Processing,Collaborative Projects
+319,1,earist,2,1,it,1,1,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,3,Low,0,Not Prefer,3,Low,0,Not Prefer,"5,0,0,3,3,0,3,0",1,2,1,1,Moderate,Low,Low,Low,AR,Processing,Hands-On Labs
+320,1,earist,2,1,it,2,1,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,7,Moderate,0,Not Prefer,"0,5,5,0,9,0,7,0",2,1,1,1,Moderate,Moderate,High,Moderate,VV,Input,Interactive code
+321,2,earist,2,1,it,3,1,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,1,Low,"5,0,1,0,3,0,0,1",1,1,1,2,Moderate,Low,Low,Low,AR,Processing,Hands-On Labs
+322,1,earist,3,1,it,1,1,9,High,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,"9,0,7,0,0,3,5,0",1,1,2,1,High,Moderate,Low,Moderate,AR,Processing,Collaborative Projects
+323,1,earist,2,1,it,1,1,0,Not Prefer,1,Low,3,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,3,Low,"0,1,3,0,1,0,0,3",2,1,1,2,Low,Low,Low,Low,AR,Processing,Group Coding
+324,1,earist,2,1,it,3,1,0,Not Prefer,3,Low,9,High,0,Not Prefer,0,Not Prefer,1,Low,3,Low,0,Not Prefer,"0,3,9,0,0,1,3,0",2,1,2,1,Low,High,Low,Low,SI,Perception,Practical Lab
+325,2,earist,2,1,it,3,1,0,Not Prefer,1,Low,1,Low,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,7,Moderate,"0,1,1,0,0,3,0,7",2,1,2,2,Low,Low,Low,Moderate,SG,Understanding,Holistic-Problem Solving
+326,1,earist,2,1,it,3,1,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,"0,1,0,1,0,1,0,5",2,2,2,2,Low,Low,Low,Moderate,SG,Understanding,Holistic-Problem Solving
+327,1,earist,3,1,it,1,2,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,9,High,"3,0,7,0,1,0,0,9",1,1,1,2,Low,Moderate,Low,High,SG,Understanding,Integrated Projects
+328,1,earist,3,1,it,3,2,0,Not Prefer,5,Moderate,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"0,5,7,0,5,0,5,0",2,1,1,1,Moderate,Moderate,Moderate,Moderate,AR,Processing,Concept Mapping
+329,1,earist,2,1,it,3,1,0,Not Prefer,3,Low,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,"0,3,7,0,3,0,5,0",2,1,1,1,Low,Moderate,Low,Moderate,SI,Perception,Step-by-step Coding
+330,1,earist,2,1,it,3,1,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,9,High,0,Not Prefer,3,Low,0,Not Prefer,"7,0,7,0,9,0,3,0",1,1,1,1,Moderate,Moderate,High,Low,VV,Input,Interactive code
+331,1,earist,2,1,it,3,1,0,Not Prefer,3,Low,0,Not Prefer,3,Low,0,Not Prefer,3,Low,0,Not Prefer,1,Low,"0,3,0,3,0,3,0,1",2,2,2,2,Low,Low,Low,Low,AR,Processing,Group Coding
+332,1,earist,2,1,it,2,1,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,3,Low,"0,3,5,0,1,0,0,3",2,1,1,2,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+333,1,earist,2,1,it,3,1,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,"0,5,0,7,3,0,5,0",2,2,1,1,Moderate,Moderate,Low,Moderate,AR,Processing,Concept Mapping
+334,1,earist,2,1,it,1,1,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"5,0,1,0,1,0,3,0",1,1,1,1,Moderate,Low,Low,Low,AR,Processing,Hands-On Labs
+335,1,earist,2,1,it,3,1,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,1,Low,0,Not Prefer,"7,0,7,0,0,3,1,0",1,1,2,1,Moderate,Moderate,Low,Low,AR,Processing,Hands-On Labs
+336,1,earist,2,1,it,1,1,3,Low,0,Not Prefer,9,High,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,1,Low,"3,0,9,0,3,0,0,1",1,1,1,2,Low,High,Low,Low,SI,Perception,Practical Lab
+337,1,earist,2,1,it,3,1,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,7,Moderate,"0,7,0,1,0,3,0,7",2,2,2,2,Moderate,Low,Low,Moderate,AR,Processing,Concept Mapping
+338,1,earist,2,1,it,3,1,0,Not Prefer,5,Moderate,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,1,Low,"0,5,7,0,1,0,0,1",2,1,1,2,Moderate,Moderate,Low,Low,AR,Processing,Concept Mapping
+339,1,earist,2,1,it,2,1,0,Not Prefer,5,Moderate,9,High,0,Not Prefer,0,Not Prefer,3,Low,3,Low,0,Not Prefer,"0,5,9,0,0,3,3,0",2,1,2,1,Moderate,High,Low,Low,SI,Perception,Practical Lab
+340,1,earist,2,1,it,3,1,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,9,High,0,Not Prefer,1,Low,0,Not Prefer,"0,1,0,7,9,0,1,0",2,2,1,1,Low,Moderate,High,Low,VV,Input,Interactive code
+341,1,earist,2,1,it,1,2,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"5,0,7,0,7,0,0,1",1,1,1,2,Moderate,Moderate,Moderate,Low,AR,Processing,Hands-On Labs
+342,1,earist,2,1,it,2,1,0,Not Prefer,7,Moderate,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,7,5,0,1,0,1,0",2,1,1,1,Moderate,Moderate,Low,Low,AR,Processing,Concept Mapping
+343,1,earist,2,1,it,2,2,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,1,Low,0,Not Prefer,"1,0,7,0,0,1,1,0",1,1,2,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+344,1,earist,2,1,it,3,2,1,Low,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"1,0,3,0,5,0,5,0",1,1,1,1,Low,Low,Moderate,Moderate,VV,Input,Visual Code Flowcharts
+345,1,earist,2,1,it,3,1,7,Moderate,0,Not Prefer,11,High,0,Not Prefer,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,"7,0,11,0,7,0,7,0",1,1,1,1,Moderate,High,Moderate,Moderate,SI,Perception,Practical Lab
+346,1,earist,2,1,it,3,2,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,0,,3,Low,1,Low,0,Not Prefer,"3,0,5,0,0,3,1,0",1,1,2,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+347,1,earist,2,1,it,1,1,1,Low,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,3,Low,"1,0,3,0,1,0,0,3",1,1,1,2,Low,Low,Low,Low,AR,Processing,Individual Learning
+348,1,earist,2,1,it,1,1,0,Not Prefer,1,Low,3,Low,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,"0,1,3,0,1,0,5,0",2,1,1,1,Low,Low,Low,Moderate,SG,Understanding,Structured Outlines
+349,1,earist,2,1,it,3,1,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,"7,0,7,0,1,0,5,0",1,1,1,1,Moderate,Moderate,Low,Moderate,AR,Processing,Hands-On Labs
+350,1,earist,2,1,it,3,2,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,"5,0,9,0,5,0,9,0",1,1,1,1,Moderate,High,Moderate,High,SI,Perception,Practical Lab
+351,1,earist,2,1,it,3,1,0,Not Prefer,3,Low,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,3,0,1,5,0,1,0",2,2,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+352,1,earist,2,1,it,1,1,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,"7,0,0,3,0,3,5,0",1,2,2,1,Moderate,Low,Low,Moderate,AR,Processing,Hands-On Labs
+353,1,earist,2,1,it,1,1,1,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,1,Low,0,Not Prefer,1,Low,"1,0,1,0,0,1,0,1",1,1,2,2,Low,Low,Low,Low,AR,Processing,Individual Learning
+354,1,earist,2,1,it,2,2,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"1,0,5,0,7,0,0,3",1,1,1,2,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+355,1,earist,4,2,it,2,2,1,Low,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,1,Low,"1,0,3,0,1,0,0,1",1,1,1,2,Low,Low,Low,Low,AR,Processing,Individual Learning
+356,1,earist,4,1,cs,3,2,0,Not Prefer,1,Low,0,Not Prefer,1,Low,3,Low,0,Not Prefer,0,Not Prefer,3,Low,"0,1,0,1,3,0,0,3",2,2,1,2,Low,Low,Low,Low,AR,Processing,Group Coding
+357,1,earist,2,1,it,2,1,3,Low,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,"3,0,3,0,1,0,1,0",1,1,1,1,Low,Low,Low,Low,AR,Processing,Individual Learning
+358,1,earist,4,1,cs,3,2,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"5,0,0,3,7,0,1,0",1,2,1,1,Moderate,Low,Moderate,Low,AR,Processing,Hands-On Labs
+359,1,earist,4,1,cs,3,1,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,3,Low,0,Not Prefer,"7,0,5,0,9,0,3,0",1,1,1,1,Moderate,Moderate,High,Low,VV,Input,Interactive code
+360,1,earist,4,2,cs,3,1,0,Not Prefer,1,Low,1,Low,0,Not Prefer,0,Not Prefer,3,Low,1,Low,0,Not Prefer,"0,1,1,0,0,3,1,0",2,1,2,1,Low,Low,Low,Low,AR,Processing,Group Coding
+361,1,earist,4,2,cs,3,1,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"7,0,3,0,5,0,0,1",1,1,1,2,Moderate,Low,Moderate,Low,AR,Processing,Hands-On Labs
+362,1,earist,4,1,cs,2,2,3,Low,0,Not Prefer,1,Low,0,Not Prefer,11,High,0,Not Prefer,0,Not Prefer,1,Low,"3,0,1,0,11,0,0,1",1,1,1,2,Low,Low,High,Low,VV,Input,Interactive code
+363,1,earist,2,1,it,3,1,1,Low,0,Not Prefer,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"1,0,3,0,7,0,1,0",1,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+364,1,earist,2,1,it,3,1,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,11,High,0,Not Prefer,0,Not Prefer,1,Low,"5,0,0,3,11,0,0,1",1,2,1,2,Moderate,Low,High,Low,VV,Input,Interactive code
+365,1,earist,4,1,cs,3,1,1,Low,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,3,Low,0,Not Prefer,"1,0,1,0,3,0,3,0",1,1,1,1,Low,Low,Low,Low,AR,Processing,Individual Learning
+366,1,earist,2,1,it,3,1,0,Not Prefer,1,Low,3,Low,0,Not Prefer,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,"0,1,3,0,0,1,0,5",2,1,2,2,Low,Low,Low,Moderate,SG,Understanding,Holistic-Problem Solving
+367,1,earist,4,1,cs,3,1,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,"0,1,0,3,0,5,5,0",2,2,2,1,Low,Low,Moderate,Moderate,VV,Input,Reading and Explaining
+368,1,earist,3,2,it,2,1,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"5,0,5,0,5,0,1,0",1,1,1,1,Moderate,Moderate,Moderate,Low,AR,Processing,Hands-On Labs
+369,1,earist,3,2,it,3,1,3,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,"3,0,1,0,0,5,0,1",1,1,2,2,Low,Low,Moderate,Low,VV,Input,Reading and Explaining
+370,1,earist,2,1,cs,3,1,9,High,0,Not Prefer,9,High,0,Not Prefer,9,High,0,Not Prefer,11,High,0,Not Prefer,"9,0,9,0,9,0,11,0",1,1,1,1,High,High,High,High,AR,Processing,Collaborative Projects
+371,1,earist,4,1,cs,3,2,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,1,Low,0,Not Prefer,"0,3,5,0,9,0,1,0",2,1,1,1,Low,Moderate,High,Low,VV,Input,Interactive code
+372,1,earist,4,1,cs,3,2,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,1,Low,3,Low,0,Not Prefer,"0,1,0,1,0,1,3,0",2,2,2,1,Low,Low,Low,Low,AR,Processing,Group Coding
+373,1,earist,2,1,cs,2,1,0,Not Prefer,1,Low,0,Not Prefer,1,Low,3,Low,0,Not Prefer,0,Not Prefer,3,Low,"0,1,0,1,3,0,0,3",2,2,1,2,Low,Low,Low,Low,AR,Processing,Group Coding
+374,1,earist,4,1,cs,1,2,0,Not Prefer,1,Low,3,Low,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,3,Low,"0,1,3,0,0,3,0,3",2,1,2,2,Low,Low,Low,Low,AR,Processing,Group Coding
+375,1,earist,4,1,cs,2,1,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"5,0,0,3,1,0,3,0",1,2,1,1,Moderate,Low,Low,Low,AR,Processing,Hands-On Labs
+376,1,earist,4,2,it,3,2,0,Not Prefer,1,Low,0,Not Prefer,1,Low,9,High,0,Not Prefer,0,Not Prefer,5,Moderate,"0,1,0,1,9,0,0,5",2,2,1,2,Low,Low,High,Moderate,VV,Input,Interactive code
+377,1,earist,4,1,it,3,2,0,Not Prefer,1,Low,1,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,3,Low,"0,1,1,0,1,0,0,3",2,1,1,2,Low,Low,Low,Low,AR,Processing,Group Coding
+378,1,earist,2,1,it,3,2,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"0,5,5,0,7,0,3,0",2,1,1,1,Moderate,Moderate,Moderate,Low,AR,Processing,Concept Mapping
+379,1,earist,2,1,it,3,1,3,Low,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,"3,0,3,0,0,5,0,5",1,1,2,2,Low,Low,Moderate,Moderate,VV,Input,Reading and Explaining
+380,1,earist,3,1,it,2,1,3,Low,0,Not Prefer,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,1,Low,"3,0,0,5,0,3,0,1",1,2,2,2,Low,Moderate,Low,Low,SI,Perception,Coding Pattern
+381,1,earist,3,1,it,3,1,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,5,Moderate,1,Low,0,Not Prefer,"5,0,3,0,0,5,1,0",1,1,2,1,Moderate,Low,Moderate,Low,AR,Processing,Hands-On Labs
+382,1,earist,2,1,it,3,2,0,Not Prefer,3,Low,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,3,7,0,5,0,1,0",2,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+383,1,earist,2,1,it,1,2,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,9,High,0,Not Prefer,1,Low,0,Not Prefer,"5,0,0,1,9,0,1,0",1,2,1,1,Moderate,Low,High,Low,VV,Input,Interactive code
+384,1,earist,4,1,cs,3,2,0,Not Prefer,5,Moderate,7,Moderate,0,Not Prefer,11,High,0,Not Prefer,3,Low,0,Not Prefer,"0,5,7,0,11,0,3,0",2,1,1,1,Moderate,Moderate,High,Low,VV,Input,Interactive code
+385,2,arellano,2,1,cs,3,2,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,0,Not Prefer,3,Low,"0,5,5,0,0,1,0,3",2,1,2,2,Moderate,Moderate,Low,Low,AR,Processing,Concept Mapping
+386,2,arellano,2,2,it,1,1,1,Low,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"1,0,1,0,1,0,3,0",1,1,1,1,Low,Low,Low,Low,AR,Processing,Individual Learning
+387,2,arellano,2,1,cs,3,1,3,Low,0,Not Prefer,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"3,0,0,1,5,0,0,3",1,2,1,2,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+388,2,arellano,2,2,cs,3,1,0,Not Prefer,5,Moderate,3,Low,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,3,Low,"0,5,3,0,0,3,0,3",2,1,2,2,Moderate,Low,Low,Low,AR,Processing,Concept Mapping
+389,2,arellano,4,1,cs,1,1,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"0,1,5,0,5,0,0,3",2,1,1,2,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+390,2,arellano,2,3,cs,3,1,0,Not Prefer,3,Low,3,Low,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,3,3,0,3,0,1,0",2,1,1,1,Low,Low,Low,Low,AR,Processing,Group Coding
+391,2,arellano,2,1,cs,3,1,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"1,0,5,0,7,0,3,0",1,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+392,2,arellano,2,1,cs,3,1,0,Not Prefer,3,Low,3,Low,0,Not Prefer,0,Not Prefer,1,Low,1,Low,0,Not Prefer,"0,3,3,0,0,1,1,0",2,1,2,1,Low,Low,Low,Low,AR,Processing,Group Coding
+393,2,arellano,4,2,cs,3,1,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,5,Moderate,0,Not Prefer,"0,1,5,0,9,0,5,0",2,1,1,1,Low,Moderate,High,Moderate,VV,Input,Interactive code
+394,2,arellano,4,1,cs,3,2,0,Not Prefer,1,Low,9,High,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,7,Moderate,"0,1,9,0,9,0,0,7",2,1,1,2,Low,High,High,Moderate,SI,Perception,Practical Lab
+395,2,arellano,1,1,cs,1,1,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,"5,0,3,0,0,3,0,5",1,1,2,2,Moderate,Low,Low,Moderate,AR,Processing,Hands-On Labs
+396,2,arellano,4,1,cs,3,1,11,High,0,Not Prefer,11,High,0,Not Prefer,11,High,0,Not Prefer,9,High,0,Not Prefer,"11,0,11,0,11,0,9,0",1,1,1,1,High,High,High,High,AR,Processing,Collaborative Projects
+397,2,arellano,4,3,cs,3,1,3,Low,0,Not Prefer,0,Not Prefer,7,Moderate,3,Low,0,Not Prefer,0,Not Prefer,7,Moderate,"3,0,0,7,3,0,0,7",1,2,1,2,Low,Moderate,Low,Moderate,SI,Perception,Coding Pattern
+398,2,arellano,2,1,cs,3,1,0,Not Prefer,5,Moderate,3,Low,0,Not Prefer,0,Not Prefer,7,Moderate,5,Moderate,0,Not Prefer,"0,5,3,0,0,7,5,0",2,1,2,1,Moderate,Low,Moderate,Moderate,AR,Processing,Concept Mapping
+399,2,arellano,4,2,cs,3,1,3,Low,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,5,Moderate,"3,0,1,0,1,0,0,5",1,1,1,2,Low,Low,Low,Moderate,SG,Understanding,Holistic-Problem Solving
+400,2,arellano,2,1,cs,2,1,9,High,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,"9,0,7,0,3,0,5,0",1,1,1,1,High,Moderate,Low,Moderate,AR,Processing,Collaborative Projects
+401,2,arellano,4,1,cs,3,1,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,0,Not Prefer,5,Moderate,3,Low,0,Not Prefer,"0,5,5,0,0,5,3,0",2,1,2,1,Moderate,Moderate,Moderate,Low,AR,Processing,Concept Mapping
+402,2,arellano,4,2,cs,3,1,11,High,0,Not Prefer,0,Not Prefer,5,Moderate,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,"11,0,0,5,7,0,7,0",1,2,1,1,High,Moderate,Moderate,Moderate,AR,Processing,Collaborative Projects
+403,2,arellano,2,1,cs,3,2,3,Low,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"3,0,3,0,5,0,3,0",1,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+404,2,arellano,2,2,cs,3,1,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,"5,0,5,0,1,0,7,0",1,1,1,1,Moderate,Moderate,Low,Moderate,AR,Processing,Hands-On Labs
+405,2,arellano,4,1,cs,1,1,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"0,3,5,0,7,0,3,0",2,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+406,2,arellano,2,1,cs,1,1,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,9,High,0,Not Prefer,3,Low,0,Not Prefer,"7,0,7,0,9,0,3,0",1,1,1,1,Moderate,Moderate,High,Low,VV,Input,Interactive code
+407,2,arellano,2,1,cs,3,1,3,Low,0,Not Prefer,9,High,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"3,0,9,0,7,0,5,0",1,1,1,1,Low,High,Moderate,Moderate,SI,Perception,Practical Lab
+408,2,arellano,4,1,cs,3,1,0,Not Prefer,3,Low,0,Not Prefer,1,Low,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,"0,3,0,1,3,0,7,0",2,2,1,1,Low,Low,Low,Moderate,SG,Understanding,Structured Outlines
+409,2,arellano,4,2,cs,3,1,0,Not Prefer,1,Low,3,Low,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,1,3,0,1,0,1,0",2,1,1,1,Low,Low,Low,Low,AR,Processing,Group Coding
+410,2,arellano,2,2,cs,3,1,3,Low,0,Not Prefer,0,Not Prefer,5,Moderate,1,Low,0,Not Prefer,0,Not Prefer,1,Low,"3,0,0,5,1,0,0,1",1,2,1,2,Low,Moderate,Low,Low,SI,Perception,Coding Pattern
+411,2,arellano,2,3,cs,2,1,0,Not Prefer,7,Moderate,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,7,3,0,5,0,1,0",2,1,1,1,Moderate,Low,Moderate,Low,AR,Processing,Concept Mapping
+412,2,arellano,2,1,cs,3,1,0,Not Prefer,1,Low,3,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,3,Low,"0,1,3,0,1,0,0,3",2,1,1,2,Low,Low,Low,Low,AR,Processing,Group Coding
+413,2,arellano,2,1,cs,1,1,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,9,High,0,Not Prefer,5,Moderate,0,Not Prefer,"1,0,7,0,9,0,5,0",1,1,1,1,Low,Moderate,High,Moderate,VV,Input,Interactive code
+414,2,arellano,2,1,cs,3,2,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"5,0,1,0,5,0,1,0",1,1,1,1,Moderate,Low,Moderate,Low,AR,Processing,Hands-On Labs
+415,2,arellano,2,1,cs,2,1,7,Moderate,0,Not Prefer,9,High,0,Not Prefer,9,High,0,Not Prefer,9,High,0,Not Prefer,"7,0,9,0,9,0,9,0",1,1,1,1,Moderate,High,High,High,SI,Perception,Practical Lab
+416,2,arellano,4,1,cs,1,2,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,0,Not Prefer,5,Moderate,1,Low,0,Not Prefer,"0,1,5,0,0,5,1,0",2,1,2,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+417,2,arellano,4,2,cs,1,2,0,Not Prefer,1,Low,3,Low,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"0,1,3,0,1,0,3,0",2,1,1,1,Low,Low,Low,Low,AR,Processing,Group Coding
+418,2,arellano,2,1,cs,3,1,0,Not Prefer,7,Moderate,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,"0,7,5,0,0,1,7,0",2,1,2,1,Moderate,Moderate,Low,Moderate,AR,Processing,Concept Mapping
+419,2,arellano,2,1,cs,3,1,0,Not Prefer,7,Moderate,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,"0,7,7,0,3,0,5,0",2,1,1,1,Moderate,Moderate,Low,Moderate,AR,Processing,Concept Mapping
+420,2,arellano,4,2,cs,3,1,1,Low,0,Not Prefer,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"1,0,3,0,7,0,0,1",1,1,1,2,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+421,2,arellano,2,1,cs,1,1,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,1,Low,"0,7,0,3,0,1,0,1",2,2,2,2,Moderate,Low,Low,Low,AR,Processing,Concept Mapping
+422,2,arellano,4,1,cs,1,2,5,Moderate,0,Not Prefer,0,Not Prefer,7,Moderate,11,High,0,Not Prefer,3,Low,0,Not Prefer,"5,0,0,7,11,0,3,0",1,2,1,1,Moderate,Moderate,High,Low,VV,Input,Interactive code
+423,2,arellano,4,1,cs,1,1,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,"1,0,5,0,1,0,1,0",1,1,1,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+424,2,arellano,4,1,cs,3,1,0,Not Prefer,1,Low,3,Low,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,1,3,0,1,0,1,0",2,1,1,1,Low,Low,Low,Low,AR,Processing,Group Coding
+425,2,arellano,4,2,cs,3,2,1,Low,0,Not Prefer,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,"1,0,0,1,0,5,0,1",1,2,2,2,Low,Low,Moderate,Low,VV,Input,Reading and Explaining
+426,2,arellano,2,3,cs,2,2,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,0,Not Prefer,5,Moderate,7,Moderate,0,Not Prefer,"0,3,5,0,0,5,7,0",2,1,2,1,Low,Moderate,Moderate,Moderate,SI,Perception,Step-by-step Coding
+427,2,arellano,2,2,cs,3,1,1,Low,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,1,Low,"1,0,3,0,1,0,0,1",1,1,1,2,Low,Low,Low,Low,AR,Processing,Individual Learning
+428,2,arellano,2,1,it,3,1,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,5,0,1,3,0,1,0",2,2,1,1,Moderate,Low,Low,Low,AR,Processing,Concept Mapping
+429,2,arellano,2,1,cs,3,2,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"1,0,7,0,5,0,1,0",1,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+430,2,arellano,4,1,cs,1,1,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,3,Low,"1,0,7,0,3,0,0,3",1,1,1,2,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+431,2,arellano,2,1,cs,1,2,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"7,0,5,0,3,0,1,0",1,1,1,1,Moderate,Moderate,Low,Low,AR,Processing,Hands-On Labs
+432,2,arellano,4,2,cs,3,1,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"7,0,5,0,3,0,1,0",1,1,1,1,Moderate,Moderate,Low,Low,AR,Processing,Hands-On Labs
+433,2,arellano,2,1,cs,1,1,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,1,Low,0,Not Prefer,0,Not Prefer,3,Low,"0,7,0,3,1,0,0,3",2,2,1,2,Moderate,Low,Low,Low,AR,Processing,Concept Mapping
+434,2,arellano,4,1,cs,1,1,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,9,High,0,Not Prefer,3,Low,0,Not Prefer,"3,0,7,0,9,0,3,0",1,1,1,1,Low,Moderate,High,Low,VV,Input,Interactive code
+435,2,arellano,4,2,cs,3,1,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,"5,0,7,0,3,0,7,0",1,1,1,1,Moderate,Moderate,Low,Moderate,AR,Processing,Hands-On Labs
+436,1,earist,4,1,it,3,2,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"5,0,1,0,7,0,5,0",1,1,1,1,Moderate,Low,Moderate,Moderate,AR,Processing,Hands-On Labs
+437,1,earist,4,1,it,1,2,1,Low,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"1,0,1,0,3,0,1,0",1,1,1,1,Low,Low,Low,Low,AR,Processing,Individual Learning
+438,1,earist,4,1,cs,3,2,0,Not Prefer,5,Moderate,3,Low,0,Not Prefer,0,Not Prefer,7,Moderate,5,Moderate,0,Not Prefer,"0,5,3,0,0,7,5,0",2,1,2,1,Moderate,Low,Moderate,Moderate,AR,Processing,Concept Mapping
+439,1,earist,2,2,it,2,2,1,Low,0,Not Prefer,9,High,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,"1,0,9,0,1,0,7,0",1,1,1,1,Low,High,Low,Moderate,SI,Perception,Practical Lab
+440,1,earist,3,1,it,2,1,0,Not Prefer,5,Moderate,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"0,5,7,0,7,0,0,3",2,1,1,2,Moderate,Moderate,Moderate,Low,AR,Processing,Concept Mapping
+441,1,earist,3,1,it,3,1,0,Not Prefer,3,Low,3,Low,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,3,3,0,3,0,1,0",2,1,1,1,Low,Low,Low,Low,AR,Processing,Group Coding
+442,1,earist,3,1,it,1,2,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"1,0,7,0,7,0,3,0",1,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+443,1,earist,3,1,it,2,2,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,"0,3,0,5,3,0,5,0",2,2,1,1,Low,Moderate,Low,Moderate,SI,Perception,Coding Pattern
+444,1,earist,3,1,it,3,2,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,"5,0,3,0,1,0,5,0",1,1,1,1,Moderate,Low,Low,Moderate,AR,Processing,Hands-On Labs
+445,1,earist,3,1,it,2,1,0,Not Prefer,3,Low,3,Low,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,"0,3,3,0,3,0,5,0",2,1,1,1,Low,Low,Low,Moderate,SG,Understanding,Structured Outlines
+446,1,earist,3,1,it,3,1,0,Not Prefer,1,Low,1,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,1,Low,"0,1,1,0,1,0,0,1",2,1,1,2,Low,Low,Low,Low,AR,Processing,Group Coding
+447,1,earist,3,1,it,3,1,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,3,Low,1,Low,0,Not Prefer,"0,7,0,3,0,3,1,0",2,2,2,1,Moderate,Low,Low,Low,AR,Processing,Concept Mapping
+448,1,earist,3,1,it,3,1,0,Not Prefer,3,Low,9,High,0,Not Prefer,11,High,0,Not Prefer,0,Not Prefer,1,Low,"0,3,9,0,11,0,0,1",2,1,1,2,Low,High,High,Low,SI,Perception,Practical Lab
+449,1,earist,3,1,it,3,1,1,Low,0,Not Prefer,0,Not Prefer,7,Moderate,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"1,0,0,7,1,0,3,0",1,2,1,1,Low,Moderate,Low,Low,SI,Perception,Coding Pattern
+450,1,earist,3,1,it,3,1,0,Not Prefer,5,Moderate,3,Low,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,5,3,0,3,0,1,0",2,1,1,1,Moderate,Low,Low,Low,AR,Processing,Concept Mapping
+451,1,earist,3,1,it,1,1,3,Low,0,Not Prefer,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"3,0,0,5,5,0,0,1",1,2,1,2,Low,Moderate,Moderate,Low,SI,Perception,Coding Pattern
+452,1,earist,3,1,it,3,2,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,9,High,"3,0,5,0,3,0,0,9",1,1,1,2,Low,Moderate,Low,High,SG,Understanding,Integrated Projects
+453,1,earist,3,1,it,2,1,1,Low,0,Not Prefer,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"1,0,0,1,7,0,1,0",1,2,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+454,1,earist,3,1,it,3,1,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,5,0,1,7,0,1,0",2,2,1,1,Moderate,Low,Moderate,Low,AR,Processing,Concept Mapping
+455,1,earist,3,1,it,3,1,0,Not Prefer,3,Low,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"0,3,1,0,7,0,3,0",2,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+456,1,earist,3,1,it,3,1,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,"0,0,0,0,0,0,0,0",0,0,0,0,,,,,,,
+457,1,earist,3,1,it,3,1,0,Not Prefer,1,Low,0,Not Prefer,3,Low,3,Low,0,Not Prefer,3,Low,0,Not Prefer,"0,1,0,3,3,0,3,0",2,2,1,1,Low,Low,Low,Low,AR,Processing,Group Coding
+458,1,earist,3,1,it,2,1,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,3,Low,0,Not Prefer,"0,1,7,0,3,0,3,0",2,1,1,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+459,1,earist,3,1,it,3,1,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,3,5,0,5,0,1,0",2,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+460,1,earist,3,1,it,3,1,0,Not Prefer,1,Low,3,Low,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,3,Low,"0,1,3,0,9,0,0,3",2,1,1,2,Low,Low,High,Low,VV,Input,Interactive code
+461,1,earist,3,1,it,3,1,0,Not Prefer,1,Low,1,Low,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,1,1,0,1,0,1,0",2,1,1,1,Low,Low,Low,Low,AR,Processing,Group Coding
+462,1,earist,3,1,it,3,2,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,1,Low,0,Not Prefer,"0,3,5,0,9,0,1,0",2,1,1,1,Low,Moderate,High,Low,VV,Input,Interactive code
+463,1,earist,3,1,it,3,2,3,Low,0,Not Prefer,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"3,0,0,1,7,0,1,0",1,2,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+464,1,earist,3,1,it,3,1,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"0,3,5,0,5,0,3,0",2,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+465,1,earist,3,1,it,3,1,7,Moderate,0,Not Prefer,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,3,Low,0,Not Prefer,"7,0,0,5,0,3,3,0",1,2,2,1,Moderate,Moderate,Low,Low,AR,Processing,Hands-On Labs
+466,1,earist,3,1,it,1,2,7,Moderate,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,5,Moderate,3,Low,0,Not Prefer,"7,0,9,0,0,5,3,0",1,1,2,1,Moderate,High,Moderate,Low,SI,Perception,Practical Lab
+467,1,earist,3,1,it,3,1,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"3,0,5,0,5,0,1,0",1,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+468,1,earist,3,1,it,2,2,3,Low,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,"3,0,1,0,1,0,1,0",1,1,1,1,Low,Low,Low,Low,AR,Processing,Individual Learning
+469,1,earist,3,1,it,3,1,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"3,0,7,0,5,0,0,1",1,1,1,2,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+470,1,earist,3,1,it,3,2,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"5,0,7,0,3,0,1,0",1,1,1,1,Moderate,Moderate,Low,Low,AR,Processing,Hands-On Labs
+471,1,earist,4,1,cs,3,1,1,Low,0,Not Prefer,3,Low,0,Not Prefer,9,High,0,Not Prefer,3,Low,0,Not Prefer,"1,0,3,0,9,0,3,0",1,1,1,1,Low,Low,High,Low,VV,Input,Interactive code
+472,1,earist,3,1,it,3,1,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"5,0,9,0,5,0,1,0",1,1,1,1,Moderate,High,Moderate,Low,SI,Perception,Practical Lab
+473,1,earist,3,1,it,3,2,0,Not Prefer,9,High,1,Low,0,Not Prefer,0,Not Prefer,3,Low,1,Low,0,Not Prefer,"0,9,1,0,0,3,1,0",2,1,2,1,High,Low,Low,Low,AR,Processing,Independent Coding
+474,1,earist,3,1,it,3,1,3,Low,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,7,Moderate,"3,0,3,0,1,0,0,7",1,1,1,2,Low,Low,Low,Moderate,SG,Understanding,Holistic-Problem Solving
+475,1,earist,3,2,it,2,1,5,Moderate,0,Not Prefer,11,High,0,Not Prefer,3,Low,0,Not Prefer,3,Low,0,Not Prefer,"5,0,11,0,3,0,3,0",1,1,1,1,Moderate,High,Low,Low,SI,Perception,Practical Lab
+476,1,earist,3,1,it,3,1,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,11,High,0,Not Prefer,3,Low,0,Not Prefer,"0,3,5,0,11,0,3,0",2,1,1,1,Low,Moderate,High,Low,VV,Input,Interactive code
+477,1,earist,3,1,it,2,1,0,Not Prefer,5,Moderate,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"0,5,1,0,7,0,5,0",2,1,1,1,Moderate,Low,Moderate,Moderate,AR,Processing,Concept Mapping
+478,1,earist,3,2,it,3,1,0,Not Prefer,5,Moderate,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"0,5,7,0,7,0,3,0",2,1,1,1,Moderate,Moderate,Moderate,Low,AR,Processing,Concept Mapping
+479,1,earist,3,1,it,2,2,0,Not Prefer,3,Low,3,Low,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,1,Low,"0,3,3,0,0,3,0,1",2,1,2,2,Low,Low,Low,Low,AR,Processing,Group Coding
+480,1,earist,3,1,it,3,1,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,7,Moderate,0,Not Prefer,0,Not Prefer,5,Moderate,"0,5,0,7,7,0,0,5",2,2,1,2,Moderate,Moderate,Moderate,Moderate,AR,Processing,Concept Mapping
+481,1,earist,3,1,it,1,1,0,Not Prefer,1,Low,3,Low,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,"0,1,3,0,0,3,0,5",2,1,2,2,Low,Low,Low,Moderate,SG,Understanding,Holistic-Problem Solving
+482,1,earist,3,1,it,2,1,1,Low,0,Not Prefer,9,High,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"1,0,9,0,7,0,0,3",1,1,1,2,Low,High,Moderate,Low,SI,Perception,Practical Lab
+483,1,earist,3,1,it,1,2,3,Low,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"3,0,1,0,5,0,3,0",1,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+484,1,earist,3,1,it,2,1,1,Low,0,Not Prefer,0,Not Prefer,1,Low,3,Low,0,Not Prefer,0,Not Prefer,3,Low,"1,0,0,1,3,0,0,3",1,2,1,2,Low,Low,Low,Low,AR,Processing,Individual Learning
+485,1,earist,3,1,it,1,2,0,Not Prefer,5,Moderate,3,Low,0,Not Prefer,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,"0,5,3,0,0,1,0,7",2,1,2,2,Moderate,Low,Low,Moderate,AR,Processing,Concept Mapping
+486,1,earist,3,1,it,3,2,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"3,0,7,0,1,0,3,0",1,1,1,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+487,1,earist,3,1,it,3,1,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,"3,0,5,0,1,0,1,0",1,1,1,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+488,1,earist,3,1,it,3,1,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,7,Moderate,"3,0,5,0,7,0,0,7",1,1,1,2,Low,Moderate,Moderate,Moderate,SI,Perception,Step-by-step Coding
+489,1,earist,3,2,it,3,1,0,Not Prefer,3,Low,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"0,3,0,3,5,0,3,0",2,2,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+490,1,earist,3,1,it,3,1,0,Not Prefer,7,Moderate,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"0,7,5,0,7,0,3,0",2,1,1,1,Moderate,Moderate,Moderate,Low,AR,Processing,Concept Mapping
+491,1,earist,3,1,it,3,2,9,High,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,0,Not Prefer,3,Low,"9,0,7,0,0,1,0,3",1,1,2,2,High,Moderate,Low,Low,AR,Processing,Collaborative Projects
+492,1,earist,3,1,it,3,1,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"1,0,5,0,7,0,0,1",1,1,1,2,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+493,1,earist,3,1,it,2,1,0,Not Prefer,1,Low,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"0,1,0,3,5,0,0,1",2,2,1,2,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+494,1,earist,3,1,it,3,1,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"0,1,5,0,5,0,0,1",2,1,1,2,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+495,1,earist,3,1,it,2,2,0,Not Prefer,5,Moderate,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"0,5,7,0,5,0,0,1",2,1,1,2,Moderate,Moderate,Moderate,Low,AR,Processing,Concept Mapping
+496,1,earist,3,2,it,1,1,0,Not Prefer,9,High,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,9,5,0,1,0,1,0",2,1,1,1,High,Moderate,Low,Low,AR,Processing,Independent Coding
+497,1,earist,3,1,it,2,1,1,Low,0,Not Prefer,11,High,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,3,Low,"1,0,11,0,1,0,0,3",1,1,1,2,Low,High,Low,Low,SI,Perception,Practical Lab
+498,1,earist,3,1,it,3,1,1,Low,0,Not Prefer,9,High,0,Not Prefer,11,High,0,Not Prefer,5,Moderate,0,Not Prefer,"1,0,9,0,11,0,5,0",1,1,1,1,Low,High,High,Moderate,SI,Perception,Practical Lab
+499,1,earist,3,1,it,3,2,0,Not Prefer,1,Low,1,Low,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,"0,1,1,0,1,0,5,0",2,1,1,1,Low,Low,Low,Moderate,SG,Understanding,Structured Outlines
+500,1,earist,3,1,it,3,2,0,Not Prefer,5,Moderate,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,3,Low,"0,5,7,0,1,0,0,3",2,1,1,2,Moderate,Moderate,Low,Low,AR,Processing,Concept Mapping
+501,1,earist,3,1,it,3,1,1,Low,0,Not Prefer,3,Low,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,1,Low,"1,0,3,0,3,0,0,1",1,1,1,2,Low,Low,Low,Low,AR,Processing,Individual Learning
+502,1,earist,3,1,it,3,1,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"7,0,5,0,7,0,3,0",1,1,1,1,Moderate,Moderate,Moderate,Low,AR,Processing,Hands-On Labs
+503,1,earist,3,1,it,3,1,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"0,5,5,0,5,0,0,3",2,1,1,2,Moderate,Moderate,Moderate,Low,AR,Processing,Concept Mapping
+504,1,earist,3,1,it,3,2,1,Low,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"1,0,1,0,5,0,5,0",1,1,1,1,Low,Low,Moderate,Moderate,VV,Input,Visual Code Flowcharts
+505,1,earist,3,1,it,3,1,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"5,0,0,1,7,0,5,0",1,2,1,1,Moderate,Low,Moderate,Moderate,AR,Processing,Hands-On Labs
+506,1,earist,3,1,it,1,2,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,1,Low,0,Not Prefer,1,Low,"5,0,3,0,0,1,0,1",1,1,2,2,Moderate,Low,Low,Low,AR,Processing,Hands-On Labs
+507,1,earist,3,1,it,2,1,0,Not Prefer,1,Low,3,Low,0,Not Prefer,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,"0,1,3,0,0,1,5,0",2,1,2,1,Low,Low,Low,Moderate,SG,Understanding,Structured Outlines
+508,1,earist,3,1,it,3,1,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,9,High,0,Not Prefer,1,Low,0,Not Prefer,"5,0,0,3,9,0,1,0",1,2,1,1,Moderate,Low,High,Low,VV,Input,Interactive code
+509,1,earist,3,1,it,3,1,0,Not Prefer,3,Low,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,"0,3,7,0,5,0,7,0",2,1,1,1,Low,Moderate,Moderate,Moderate,SI,Perception,Step-by-step Coding
+510,1,earist,3,1,it,2,1,1,Low,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"1,0,3,0,5,0,5,0",1,1,1,1,Low,Low,Moderate,Moderate,VV,Input,Visual Code Flowcharts
+511,2,arellano,2,1,cs,1,2,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,5,0,1,3,0,1,0",2,2,1,1,Moderate,Low,Low,Low,AR,Processing,Concept Mapping
+512,1,earist,2,1,cs,3,1,3,Low,0,Not Prefer,9,High,0,Not Prefer,9,High,0,Not Prefer,3,Low,0,Not Prefer,"3,0,9,0,9,0,3,0",1,1,1,1,Low,High,High,Low,SI,Perception,Practical Lab
+513,2,gardner,1,1,cs,1,1,0,Not Prefer,9,High,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"0,9,7,0,5,0,3,0",2,1,1,1,High,Moderate,Moderate,Low,AR,Processing,Independent Coding
+514,2,gardner,1,1,cs,2,2,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,1,Low,0,Not Prefer,0,Not Prefer,3,Low,"0,5,0,3,1,0,0,3",2,2,1,2,Moderate,Low,Low,Low,AR,Processing,Concept Mapping
+515,1,earist,1,1,cs,3,2,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,1,5,0,3,0,1,0",2,1,1,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+516,1,earist,1,1,cs,2,2,0,Not Prefer,7,Moderate,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"0,7,1,0,5,0,0,1",2,1,1,2,Moderate,Low,Moderate,Low,AR,Processing,Concept Mapping
+517,1,earist,1,1,cs,2,1,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,5,0,1,5,0,1,0",2,2,1,1,Moderate,Low,Moderate,Low,AR,Processing,Concept Mapping
+518,1,earist,1,1,cs,1,1,0,Not Prefer,1,Low,3,Low,0,Not Prefer,0,Not Prefer,3,Low,1,Low,0,Not Prefer,"0,1,3,0,0,3,1,0",2,1,2,1,Low,Low,Low,Low,AR,Processing,Group Coding
+519,1,earist,1,1,cs,3,1,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,0,Not Prefer,1,Low,"0,5,5,0,0,1,0,1",2,1,2,2,Moderate,Moderate,Low,Low,AR,Processing,Concept Mapping
+520,1,earist,1,1,cs,1,1,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,0,Not Prefer,"0,0,0,0,0,0,0,0",0,0,0,0,,,,,,,
+521,1,earist,1,1,cs,1,1,0,Not Prefer,1,Low,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,1,3,0,5,0,1,0",2,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+522,1,earist,1,1,cs,3,1,0,Not Prefer,5,Moderate,3,Low,0,Not Prefer,3,Low,0,Not Prefer,3,Low,0,Not Prefer,"0,5,3,0,3,0,3,0",2,1,1,1,Moderate,Low,Low,Low,AR,Processing,Concept Mapping
+523,1,earist,1,1,cs,3,1,0,Not Prefer,1,Low,1,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,5,Moderate,"0,1,1,0,1,0,0,5",2,1,1,2,Low,Low,Low,Moderate,SG,Understanding,Holistic-Problem Solving
+524,1,earist,1,1,cs,3,2,0,Not Prefer,3,Low,1,Low,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,7,Moderate,"0,3,1,0,9,0,0,7",2,1,1,2,Low,Low,High,Moderate,VV,Input,Interactive code
+525,1,earist,1,1,cs,1,2,1,Low,0,Not Prefer,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"1,0,3,0,7,0,3,0",1,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+526,1,earist,1,1,cs,1,2,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"0,3,5,0,1,0,3,0",2,1,1,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+527,1,earist,2,2,cs,3,1,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,"5,0,5,0,1,0,1,0",1,1,1,1,Moderate,Moderate,Low,Low,AR,Processing,Hands-On Labs
+528,1,earist,1,1,cs,2,1,3,Low,0,Not Prefer,1,Low,0,Not Prefer,9,High,0,Not Prefer,7,Moderate,0,Not Prefer,"3,0,1,0,9,0,7,0",1,1,1,1,Low,Low,High,Moderate,VV,Input,Interactive code
+529,1,earist,1,1,cs,3,1,1,Low,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,"1,0,0,3,0,5,0,7",1,2,2,2,Low,Low,Moderate,Moderate,VV,Input,Reading and Explaining
+530,1,earist,1,1,cs,1,1,1,Low,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"1,0,1,0,3,0,1,0",1,1,1,1,Low,Low,Low,Low,AR,Processing,Individual Learning
+531,1,earist,1,2,cs,3,1,0,Not Prefer,3,Low,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"0,3,0,1,5,0,0,1",2,2,1,2,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+532,1,earist,1,1,cs,3,1,3,Low,0,Not Prefer,0,Not Prefer,9,High,1,Low,0,Not Prefer,0,Not Prefer,1,Low,"3,0,0,9,1,0,0,1",1,2,1,2,Low,High,Low,Low,SI,Perception,Advanced Programming
+533,1,earist,1,1,cs,3,1,0,Not Prefer,1,Low,1,Low,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,1,Low,"0,1,1,0,9,0,0,1",2,1,1,2,Low,Low,High,Low,VV,Input,Interactive code
+534,1,earist,1,1,cs,3,1,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,"0,1,5,0,0,1,0,7",2,1,2,2,Low,Moderate,Low,Moderate,SI,Perception,Step-by-step Coding
+535,1,earist,1,3,cs,3,2,0,Not Prefer,5,Moderate,3,Low,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,"0,5,3,0,3,0,5,0",2,1,1,1,Moderate,Low,Low,Moderate,AR,Processing,Concept Mapping
+536,1,earist,1,1,cs,1,1,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,5,0,3,7,0,1,0",2,2,1,1,Moderate,Low,Moderate,Low,AR,Processing,Concept Mapping
+537,1,earist,2,1,it,3,1,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,3,Low,0,Not Prefer,"5,0,5,0,0,3,3,0",1,1,2,1,Moderate,Moderate,Low,Low,AR,Processing,Hands-On Labs
+538,1,earist,2,3,it,1,2,0,Not Prefer,7,Moderate,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"0,7,3,0,7,0,0,1",2,1,1,2,Moderate,Low,Moderate,Low,AR,Processing,Concept Mapping
+539,1,earist,1,1,cs,3,2,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,1,Low,0,Not Prefer,"0,3,5,0,9,0,1,0",2,1,1,1,Low,Moderate,High,Low,VV,Input,Interactive code
+540,1,earist,1,1,cs,3,1,3,Low,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,5,Moderate,"3,0,1,0,5,0,0,5",1,1,1,2,Low,Low,Moderate,Moderate,VV,Input,Visual Code Flowcharts
+541,1,earist,1,1,cs,3,1,0,Not Prefer,5,Moderate,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,"0,5,7,0,0,1,5,0",2,1,2,1,Moderate,Moderate,Low,Moderate,AR,Processing,Concept Mapping
+542,1,earist,1,1,cs,1,2,1,Low,0,Not Prefer,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"1,0,0,1,7,0,1,0",1,2,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+543,1,earist,4,1,cs,3,2,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,1,7,0,5,0,1,0",2,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+544,1,earist,4,1,cs,1,1,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,"3,0,5,0,7,0,7,0",1,1,1,1,Low,Moderate,Moderate,Moderate,SI,Perception,Step-by-step Coding
+545,1,earist,4,1,cs,1,2,0,Not Prefer,1,Low,9,High,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,1,9,0,3,0,1,0",2,1,1,1,Low,High,Low,Low,SI,Perception,Practical Lab
+546,1,earist,4,1,it,1,1,11,High,0,Not Prefer,11,High,0,Not Prefer,11,High,0,Not Prefer,11,High,0,Not Prefer,"11,0,11,0,11,0,11,0",1,1,1,1,High,High,High,High,AR,Processing,Collaborative Projects
+547,1,earist,4,1,it,3,1,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,3,Low,0,Not Prefer,"0,5,5,0,3,0,3,0",2,1,1,1,Moderate,Moderate,Low,Low,AR,Processing,Concept Mapping
+548,1,earist,4,1,it,3,1,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"0,5,5,0,7,0,0,1",2,1,1,2,Moderate,Moderate,Moderate,Low,AR,Processing,Concept Mapping
+549,1,earist,4,1,it,1,1,0,Not Prefer,3,Low,3,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,1,Low,"0,3,3,0,1,0,0,1",2,1,1,2,Low,Low,Low,Low,AR,Processing,Group Coding
+550,1,earist,4,2,cs,1,1,11,High,0,Not Prefer,11,High,0,Not Prefer,11,High,0,Not Prefer,11,High,0,Not Prefer,"11,0,11,0,11,0,11,0",1,1,1,1,High,High,High,High,AR,Processing,Collaborative Projects
+551,1,earist,4,1,cs,3,2,0,Not Prefer,9,High,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,5,Moderate,"0,9,5,0,9,0,0,5",2,1,1,2,High,Moderate,High,Moderate,AR,Processing,Independent Coding
+552,1,earist,4,1,cs,2,2,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,1,7,0,7,0,1,0",2,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+553,1,earist,4,1,cs,1,1,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,"7,0,0,3,7,0,7,0",1,2,1,1,Moderate,Low,Moderate,Moderate,AR,Processing,Hands-On Labs
+554,1,earist,4,1,cs,1,1,9,High,0,Not Prefer,9,High,0,Not Prefer,3,Low,0,Not Prefer,9,High,0,Not Prefer,"9,0,9,0,3,0,9,0",1,1,1,1,High,High,Low,High,AR,Processing,Collaborative Projects
+555,1,earist,4,1,cs,2,1,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,7,Moderate,0,Not Prefer,"1,0,5,0,9,0,7,0",1,1,1,1,Low,Moderate,High,Moderate,VV,Input,Interactive code
+556,1,earist,4,1,cs,3,1,0,Not Prefer,1,Low,0,Not Prefer,1,Low,3,Low,0,Not Prefer,0,Not Prefer,1,Low,"0,1,0,1,3,0,0,1",2,2,1,2,Low,Low,Low,Low,AR,Processing,Group Coding
+557,1,earist,4,1,cs,2,1,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,"0,3,0,5,1,0,7,0",2,2,1,1,Low,Moderate,Low,Moderate,SI,Perception,Coding Pattern
+558,1,earist,4,1,cs,3,2,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,3,5,0,7,0,1,0",2,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+559,1,earist,4,1,cs,3,2,0,Not Prefer,9,High,1,Low,0,Not Prefer,0,Not Prefer,3,Low,1,Low,0,Not Prefer,"0,9,1,0,0,3,1,0",2,1,2,1,High,Low,Low,Low,AR,Processing,Independent Coding
+560,1,earist,4,1,cs,2,1,0,Not Prefer,3,Low,3,Low,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,3,3,0,3,0,1,0",2,1,1,1,Low,Low,Low,Low,AR,Processing,Group Coding
+561,1,earist,4,1,cs,3,2,0,Not Prefer,5,Moderate,9,High,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,1,Low,"0,5,9,0,1,0,0,1",2,1,1,2,Moderate,High,Low,Low,SI,Perception,Practical Lab
+562,1,earist,4,1,cs,1,1,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"5,0,0,1,7,0,0,1",1,2,1,2,Moderate,Low,Moderate,Low,AR,Processing,Hands-On Labs
+563,1,earist,4,1,cs,3,2,0,Not Prefer,3,Low,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,"0,3,7,0,0,1,5,0",2,1,2,1,Low,Moderate,Low,Moderate,SI,Perception,Step-by-step Coding
+564,1,earist,4,1,cs,3,2,0,Not Prefer,1,Low,1,Low,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"0,1,1,0,1,0,3,0",2,1,1,1,Low,Low,Low,Low,AR,Processing,Group Coding
+565,1,earist,4,1,cs,3,1,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,"0,3,5,0,3,0,7,0",2,1,1,1,Low,Moderate,Low,Moderate,SI,Perception,Step-by-step Coding
+566,1,earist,4,1,cs,1,1,1,Low,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,"1,0,0,3,0,5,0,3",1,2,2,2,Low,Low,Moderate,Low,VV,Input,Reading and Explaining
+567,1,earist,4,1,cs,3,2,3,Low,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"3,0,1,0,7,0,5,0",1,1,1,1,Low,Low,Moderate,Moderate,VV,Input,Visual Code Flowcharts
+568,1,earist,4,1,cs,2,1,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"7,0,0,3,3,0,1,0",1,2,1,1,Moderate,Low,Low,Low,AR,Processing,Hands-On Labs
+569,1,earist,4,1,cs,3,2,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,"3,0,7,0,5,0,9,0",1,1,1,1,Low,Moderate,Moderate,High,SG,Understanding,Detailed Plans
+570,1,earist,4,1,cs,2,2,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,3,Low,"0,1,0,3,0,1,0,3",2,2,2,2,Low,Low,Low,Low,AR,Processing,Group Coding
+571,1,earist,4,2,cs,3,1,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,9,High,0,Not Prefer,"5,0,1,0,7,0,9,0",1,1,1,1,Moderate,Low,Moderate,High,SG,Understanding,Detailed Plans
+572,1,earist,4,1,cs,1,1,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"5,0,0,1,5,0,3,0",1,2,1,1,Moderate,Low,Moderate,Low,AR,Processing,Hands-On Labs
+573,1,earist,4,2,cs,3,2,0,Not Prefer,11,High,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,3,Low,"0,11,5,0,3,0,0,3",2,1,1,2,High,Moderate,Low,Low,AR,Processing,Independent Coding
+574,1,earist,4,1,cs,1,1,3,Low,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"3,0,1,0,7,0,5,0",1,1,1,1,Low,Low,Moderate,Moderate,VV,Input,Visual Code Flowcharts
+575,1,earist,4,1,cs,3,2,0,Not Prefer,1,Low,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"0,1,0,3,5,0,0,3",2,2,1,2,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+576,1,earist,4,1,cs,1,2,3,Low,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"3,0,3,0,5,0,3,0",1,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+577,1,earist,4,1,cs,3,1,9,High,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,11,High,0,Not Prefer,"9,0,5,0,5,0,11,0",1,1,1,1,High,Moderate,Moderate,High,AR,Processing,Collaborative Projects
+578,1,earist,4,1,cs,3,2,9,High,0,Not Prefer,0,Not Prefer,1,Low,1,Low,0,Not Prefer,1,Low,0,Not Prefer,"9,0,0,1,1,0,1,0",1,2,1,1,High,Low,Low,Low,AR,Processing,Collaborative Projects
+579,1,earist,4,1,cs,2,1,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,"1,0,7,0,3,0,7,0",1,1,1,1,Low,Moderate,Low,Moderate,SI,Perception,Step-by-step Coding
+580,1,earist,4,1,cs,3,1,9,High,0,Not Prefer,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,11,High,0,Not Prefer,"9,0,5,0,9,0,11,0",1,1,1,1,High,Moderate,High,High,AR,Processing,Collaborative Projects
+581,1,earist,4,1,cs,2,1,0,Not Prefer,11,High,5,Moderate,0,Not Prefer,0,Not Prefer,5,Moderate,3,Low,0,Not Prefer,"0,11,5,0,0,5,3,0",2,1,2,1,High,Moderate,Moderate,Low,AR,Processing,Independent Coding
+582,1,earist,4,1,cs,1,1,1,Low,0,Not Prefer,3,Low,0,Not Prefer,11,High,0,Not Prefer,5,Moderate,0,Not Prefer,"1,0,3,0,11,0,5,0",1,1,1,1,Low,Low,High,Moderate,VV,Input,Interactive code
+583,1,earist,4,1,cs,2,2,3,Low,0,Not Prefer,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,"3,0,0,1,7,0,7,0",1,2,1,1,Low,Low,Moderate,Moderate,VV,Input,Visual Code Flowcharts
+584,1,earist,4,1,cs,3,1,0,Not Prefer,7,Moderate,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,3,Low,"0,7,5,0,9,0,0,3",2,1,1,2,Moderate,Moderate,High,Low,VV,Input,Interactive code
+585,1,earist,4,1,cs,1,2,0,Not Prefer,1,Low,3,Low,0,Not Prefer,11,High,0,Not Prefer,7,Moderate,0,Not Prefer,"0,1,3,0,11,0,7,0",2,1,1,1,Low,Low,High,Moderate,VV,Input,Interactive code
+586,1,earist,4,1,cs,1,1,11,High,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"11,0,7,0,5,0,5,0",1,1,1,1,High,Moderate,Moderate,Moderate,AR,Processing,Collaborative Projects
+587,1,earist,4,2,cs,2,1,0,Not Prefer,1,Low,3,Low,0,Not Prefer,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,"0,1,3,0,3,0,7,0",2,1,1,1,Low,Low,Low,Moderate,SG,Understanding,Structured Outlines
+588,1,earist,4,1,cs,3,1,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,11,High,0,Not Prefer,9,High,0,Not Prefer,"7,0,7,0,11,0,9,0",1,1,1,1,Moderate,Moderate,High,High,VV,Input,Interactive code
+589,1,earist,4,1,cs,3,1,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,3,Low,0,Not Prefer,"3,0,7,0,3,0,3,0",1,1,1,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+590,1,earist,4,1,cs,3,1,5,Moderate,0,Not Prefer,11,High,0,Not Prefer,11,High,0,Not Prefer,11,High,0,Not Prefer,"5,0,11,0,11,0,11,0",1,1,1,1,Moderate,High,High,High,SI,Perception,Practical Lab
+591,1,earist,4,1,cs,3,2,1,Low,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,1,Low,"1,0,1,0,1,0,0,1",1,1,1,2,Low,Low,Low,Low,AR,Processing,Individual Learning
+592,1,earist,4,1,cs,3,1,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"0,3,5,0,1,0,3,0",2,1,1,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+593,1,earist,4,1,cs,1,1,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,7,Moderate,0,Not Prefer,7,Moderate,"5,0,1,0,0,7,0,7",1,1,2,2,Moderate,Low,Moderate,Moderate,AR,Processing,Hands-On Labs
+594,1,earist,4,1,cs,3,2,0,Not Prefer,5,Moderate,3,Low,0,Not Prefer,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,"0,5,3,0,0,3,5,0",2,1,2,1,Moderate,Low,Low,Moderate,AR,Processing,Concept Mapping
+595,1,earist,4,1,cs,1,2,0,Not Prefer,7,Moderate,3,Low,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"0,7,3,0,1,0,3,0",2,1,1,1,Moderate,Low,Low,Low,AR,Processing,Concept Mapping
+596,1,earist,4,1,cs,3,2,11,High,0,Not Prefer,7,Moderate,0,Not Prefer,11,High,0,Not Prefer,11,High,0,Not Prefer,"11,0,7,0,11,0,11,0",1,1,1,1,High,Moderate,High,High,AR,Processing,Collaborative Projects
+597,1,earist,4,1,cs,3,2,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,"0,1,7,0,1,0,7,0",2,1,1,1,Low,Moderate,Low,Moderate,SI,Perception,Step-by-step Coding
+598,1,earist,1,1,cs,1,1,1,Low,0,Not Prefer,0,Not Prefer,5,Moderate,9,High,0,Not Prefer,0,Not Prefer,7,Moderate,"1,0,0,5,9,0,0,7",1,2,1,2,Low,Moderate,High,Moderate,VV,Input,Interactive code
+599,1,earist,1,1,cs,2,2,0,Not Prefer,5,Moderate,7,Moderate,0,Not Prefer,9,High,0,Not Prefer,3,Low,0,Not Prefer,"0,5,7,0,9,0,3,0",2,1,1,1,Moderate,Moderate,High,Low,VV,Input,Interactive code
+600,1,earist,1,1,cs,3,2,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,"0,3,5,0,0,1,5,0",2,1,2,1,Low,Moderate,Low,Moderate,SI,Perception,Step-by-step Coding
+601,1,earist,4,2,cs,2,1,9,High,0,Not Prefer,11,High,0,Not Prefer,9,High,0,Not Prefer,11,High,0,Not Prefer,"9,0,11,0,9,0,11,0",1,1,1,1,High,High,High,High,AR,Processing,Collaborative Projects
+602,1,earist,4,1,cs,3,1,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,3,Low,"3,0,5,0,9,0,0,3",1,1,1,2,Low,Moderate,High,Low,VV,Input,Interactive code
+603,1,earist,4,1,cs,3,2,0,Not Prefer,3,Low,9,High,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,"0,3,9,0,5,0,7,0",2,1,1,1,Low,High,Moderate,Moderate,SI,Perception,Practical Lab
+604,1,earist,4,1,cs,3,2,0,Not Prefer,7,Moderate,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"0,7,5,0,7,0,5,0",2,1,1,1,Moderate,Moderate,Moderate,Moderate,AR,Processing,Concept Mapping
+605,1,earist,1,1,cs,3,1,0,Not Prefer,1,Low,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"0,1,3,0,7,0,3,0",2,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+606,1,earist,1,1,cs,1,2,1,Low,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"1,0,1,0,7,0,0,3",1,1,1,2,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+607,1,earist,1,1,cs,1,1,0,,0,,0,,0,,0,,0,,0,,0,,"0,0,0,0,0,0,0,0",0,0,0,0,,,,,,,
+608,1,earist,1,1,it,3,1,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,1,Low,0,Not Prefer,"0,5,5,0,0,1,1,0",2,1,2,1,Moderate,Moderate,Low,Low,AR,Processing,Concept Mapping
+609,1,earist,1,1,it,3,1,11,High,0,Not Prefer,1,Low,0,,9,High,0,Not Prefer,0,Not Prefer,1,Low,"11,0,1,0,9,0,0,1",1,1,1,2,High,Low,High,Low,AR,Processing,Collaborative Projects
+610,1,earist,1,1,it,3,1,0,Not Prefer,3,Low,1,Low,0,Not Prefer,0,Not Prefer,1,Low,1,Low,0,Not Prefer,"0,3,1,0,0,1,1,0",2,1,2,1,Low,Low,Low,Low,AR,Processing,Group Coding
+611,1,earist,1,1,it,1,1,0,Not Prefer,5,Moderate,3,Low,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,"0,5,3,0,1,0,7,0",2,1,1,1,Moderate,Low,Low,Moderate,AR,Processing,Concept Mapping
+612,1,earist,1,1,it,1,1,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"0,7,0,1,1,0,3,0",2,2,1,1,Moderate,Low,Low,Low,AR,Processing,Concept Mapping
+613,1,earist,1,1,it,3,2,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"0,1,7,0,1,0,3,0",2,1,1,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+614,1,earist,1,1,it,3,2,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,9,High,0,Not Prefer,0,Not Prefer,1,Low,"0,5,0,5,9,0,0,1",2,2,1,2,Moderate,Moderate,High,Low,VV,Input,Interactive code
+615,1,earist,1,1,it,1,1,3,Low,0,Not Prefer,11,High,0,Not Prefer,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,"3,0,11,0,0,1,7,0",1,1,2,1,Low,High,Low,Moderate,SI,Perception,Practical Lab
+616,1,earist,1,1,it,2,1,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"1,0,5,0,3,0,1,0",1,1,1,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+617,1,earist,1,1,it,1,1,0,Not Prefer,1,Low,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"0,1,0,1,5,0,0,1",2,2,1,2,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+618,1,earist,1,1,it,3,1,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,3,Low,0,Not Prefer,"0,5,5,0,9,0,3,0",2,1,1,1,Moderate,Moderate,High,Low,VV,Input,Interactive code
+619,1,earist,1,1,it,3,1,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,3,Low,0,Not Prefer,"0,1,7,0,3,0,3,0",2,1,1,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+620,1,earist,1,1,it,3,1,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,"1,0,5,0,1,0,1,0",1,1,1,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+621,1,earist,1,1,it,3,1,1,Low,0,Not Prefer,3,Low,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,1,Low,"1,0,3,0,3,0,0,1",1,1,1,2,Low,Low,Low,Low,AR,Processing,Individual Learning
+622,1,earist,1,1,it,1,2,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,7,Moderate,1,Low,0,Not Prefer,"3,0,5,0,0,7,1,0",1,1,2,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+623,1,earist,1,1,it,3,2,9,High,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"9,0,5,0,3,0,1,0",1,1,1,1,High,Moderate,Low,Low,AR,Processing,Collaborative Projects
+624,1,earist,1,1,it,3,1,5,Moderate,0,Not Prefer,0,Not Prefer,9,High,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"5,0,0,9,7,0,3,0",1,2,1,1,Moderate,High,Moderate,Low,SI,Perception,Advanced Programming
+625,1,earist,1,1,it,3,2,0,Not Prefer,9,High,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,9,0,3,5,0,1,0",2,2,1,1,High,Low,Moderate,Low,AR,Processing,Independent Coding
+626,1,earist,1,1,it,3,1,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,"5,0,1,0,1,0,7,0",1,1,1,1,Moderate,Low,Low,Moderate,AR,Processing,Hands-On Labs
+627,1,earist,1,1,it,2,2,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,"0,1,5,0,0,3,5,0",2,1,2,1,Low,Moderate,Low,Moderate,SI,Perception,Step-by-step Coding
+628,1,earist,1,1,it,2,2,0,Not Prefer,3,Low,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,1,Low,"0,3,7,0,0,3,0,1",2,1,2,2,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+629,1,earist,1,1,it,3,2,0,Not Prefer,9,High,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,3,Low,0,Not Prefer,"0,9,5,0,0,1,3,0",2,1,2,1,High,Moderate,Low,Low,AR,Processing,Independent Coding
+630,1,earist,1,1,it,2,2,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,"3,0,7,0,3,0,5,0",1,1,1,1,Low,Moderate,Low,Moderate,SI,Perception,Step-by-step Coding
+631,1,earist,1,1,it,3,1,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"7,0,7,0,5,0,1,0",1,1,1,1,Moderate,Moderate,Moderate,Low,AR,Processing,Hands-On Labs
+632,1,earist,2,2,it,3,1,0,Not Prefer,9,High,0,Not Prefer,1,Low,9,High,0,Not Prefer,0,Not Prefer,1,Low,"0,9,0,1,9,0,0,1",2,2,1,2,High,Low,High,Low,AR,Processing,Independent Coding
+633,1,earist,1,1,it,3,2,0,Not Prefer,1,Low,11,High,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,"0,1,11,0,5,0,7,0",2,1,1,1,Low,High,Moderate,Moderate,SI,Perception,Practical Lab
+634,1,earist,1,1,it,3,2,0,Not Prefer,3,Low,1,Low,0,Not Prefer,0,Not Prefer,5,Moderate,3,Low,0,Not Prefer,"0,3,1,0,0,5,3,0",2,1,2,1,Low,Low,Moderate,Low,VV,Input,Reading and Explaining
+635,1,earist,1,1,it,1,2,0,Not Prefer,5,Moderate,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,"0,5,7,0,1,0,3,0",2,1,1,1,Moderate,Moderate,Low,Low,AR,Processing,Concept Mapping
+636,1,earist,1,1,it,3,1,3,Low,0,Not Prefer,0,Not Prefer,3,Low,1,Low,0,Not Prefer,1,Low,0,Not Prefer,"3,0,0,3,1,0,1,0",1,2,1,1,Low,Low,Low,Low,AR,Processing,Individual Learning
+637,1,earist,1,1,it,3,1,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,"0,3,5,0,0,5,0,3",2,1,2,2,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+638,1,earist,1,1,it,3,1,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,1,Low,"5,0,0,1,0,3,0,1",1,2,2,2,Moderate,Low,Low,Low,AR,Processing,Hands-On Labs
+639,1,earist,1,1,it,3,1,3,Low,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"3,0,3,0,5,0,0,1",1,1,1,2,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+640,1,earist,1,1,it,3,1,1,Low,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,1,Low,0,Not Prefer,1,Low,"1,0,3,0,0,1,0,1",1,1,2,2,Low,Low,Low,Low,AR,Processing,Individual Learning
+641,1,earist,1,1,it,3,1,1,Low,0,Not Prefer,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,"1,0,0,1,5,0,7,0",1,2,1,1,Low,Low,Moderate,Moderate,VV,Input,Visual Code Flowcharts
+642,1,earist,1,1,it,1,1,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"5,0,3,0,7,0,3,0",1,1,1,1,Moderate,Low,Moderate,Low,AR,Processing,Hands-On Labs
+643,1,earist,1,1,it,1,1,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,5,5,0,7,0,1,0",2,1,1,1,Moderate,Moderate,Moderate,Low,AR,Processing,Concept Mapping
+644,1,earist,1,1,it,2,1,0,,0,,0,,0,,0,,0,,0,,0,,"0,0,0,0,0,0,0,0",0,0,0,0,,,,,,,
+645,1,earist,1,1,it,1,1,0,Not Prefer,11,High,0,Not Prefer,9,High,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"0,11,0,9,5,0,0,1",2,2,1,2,High,High,Moderate,Low,AR,Processing,Independent Coding
+646,1,earist,1,1,it,3,1,1,Low,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,"1,0,1,0,3,0,5,0",1,1,1,1,Low,Low,Low,Moderate,SG,Understanding,Structured Outlines
+647,1,earist,1,1,it,3,2,0,,0,,0,,0,,0,,0,,0,,0,,"0,0,0,0,0,0,0,0",0,0,0,0,,,,,,,
+648,1,earist,1,1,it,2,1,0,,0,,0,,0,,0,,0,,0,,0,,"0,0,0,0,0,0,0,0",0,0,0,0,,,,,,,
+649,1,earist,1,1,it,2,2,0,Not Prefer,3,Low,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"0,3,3,0,5,0,0,3",2,1,1,2,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+650,1,earist,1,1,it,3,1,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,1,Low,"0,3,0,5,0,3,0,1",2,2,2,2,Low,Moderate,Low,Low,SI,Perception,Coding Pattern
+651,1,earist,1,1,it,2,1,1,Low,0,Not Prefer,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"1,0,0,3,5,0,5,0",1,2,1,1,Low,Low,Moderate,Moderate,VV,Input,Visual Code Flowcharts
+652,1,earist,1,1,it,1,2,0,Not Prefer,1,Low,1,Low,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,1,1,0,3,0,1,0",2,1,1,1,Low,Low,Low,Low,AR,Processing,Group Coding
+653,1,earist,1,1,it,2,1,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,"0,3,5,0,3,0,5,0",2,1,1,1,Low,Moderate,Low,Moderate,SI,Perception,Step-by-step Coding
+654,1,earist,1,1,it,3,1,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,9,High,0,Not Prefer,1,Low,0,Not Prefer,"5,0,0,3,9,0,1,0",1,2,1,1,Moderate,Low,High,Low,VV,Input,Interactive code
+655,1,earist,1,1,it,1,2,0,Not Prefer,5,Moderate,9,High,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"0,5,9,0,5,0,3,0",2,1,1,1,Moderate,High,Moderate,Low,SI,Perception,Practical Lab
+656,1,earist,1,1,it,1,1,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,3,Low,0,Not Prefer,0,Not Prefer,1,Low,"5,0,0,1,3,0,0,1",1,2,1,2,Moderate,Low,Low,Low,AR,Processing,Hands-On Labs
+657,1,earist,1,1,it,3,2,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,1,5,0,5,0,1,0",2,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+658,1,earist,1,1,it,3,1,0,Not Prefer,3,Low,3,Low,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,1,Low,"0,3,3,0,9,0,0,1",2,1,1,2,Low,Low,High,Low,VV,Input,Interactive code
+659,1,earist,1,1,it,3,1,1,Low,0,Not Prefer,11,High,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"1,0,11,0,7,0,5,0",1,1,1,1,Low,High,Moderate,Moderate,SI,Perception,Practical Lab
+660,1,earist,1,1,it,3,1,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,"0,3,0,1,0,5,5,0",2,2,2,1,Low,Low,Moderate,Moderate,VV,Input,Reading and Explaining
+661,1,earist,1,1,it,3,1,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,"7,0,0,3,0,5,0,1",1,2,2,2,Moderate,Low,Moderate,Low,AR,Processing,Hands-On Labs
+662,1,earist,1,1,it,3,2,0,Not Prefer,5,Moderate,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,5,7,0,1,0,1,0",2,1,1,1,Moderate,Moderate,Low,Low,AR,Processing,Concept Mapping
+663,1,earist,1,1,it,3,2,3,Low,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,1,Low,0,Not Prefer,1,Low,"3,0,3,0,0,1,0,1",1,1,2,2,Low,Low,Low,Low,AR,Processing,Individual Learning
+664,1,earist,1,1,it,3,1,0,,0,,0,,0,,0,,0,,0,,0,,"0,0,0,0,0,0,0,0",0,0,0,0,,,,,,,
+665,1,earist,1,1,it,3,1,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,3,5,0,3,0,1,0",2,1,1,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+666,1,earist,1,1,it,1,1,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"1,0,7,0,5,0,0,1",1,1,1,2,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+667,1,earist,1,1,it,1,1,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,1,Low,"5,0,1,0,3,0,0,1",1,1,1,2,Moderate,Low,Low,Low,AR,Processing,Hands-On Labs
+668,1,earist,1,1,it,3,1,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,9,High,0,Not Prefer,1,Low,0,Not Prefer,"3,0,7,0,9,0,1,0",1,1,1,1,Low,Moderate,High,Low,VV,Input,Interactive code
+669,1,earist,1,1,it,1,1,0,Not Prefer,1,Low,3,Low,0,Not Prefer,9,High,0,Not Prefer,5,Moderate,0,Not Prefer,"0,1,3,0,9,0,5,0",2,1,1,1,Low,Low,High,Moderate,VV,Input,Interactive code
+670,1,earist,1,1,it,3,1,1,Low,0,Not Prefer,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,"1,0,0,5,0,5,0,3",1,2,2,2,Low,Moderate,Moderate,Low,SI,Perception,Coding Pattern
+671,1,earist,1,1,it,1,2,3,Low,0,Not Prefer,3,Low,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,1,Low,"3,0,3,0,3,0,0,1",1,1,1,2,Low,Low,Low,Low,AR,Processing,Individual Learning
+672,1,earist,1,1,it,1,1,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"5,0,0,1,7,0,0,3",1,2,1,2,Moderate,Low,Moderate,Low,AR,Processing,Hands-On Labs
+673,1,earist,1,1,it,1,1,0,Not Prefer,5,Moderate,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,9,High,0,Not Prefer,"0,5,7,0,1,0,9,0",2,1,1,1,Moderate,Moderate,Low,High,SG,Understanding,Detailed Plans
+674,1,earist,1,1,it,2,1,5,Moderate,0,Not Prefer,11,High,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"5,0,11,0,5,0,0,3",1,1,1,2,Moderate,High,Moderate,Low,SI,Perception,Practical Lab
+675,1,earist,1,1,it,1,1,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"3,0,7,0,7,0,0,3",1,1,1,2,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+676,1,earist,1,1,it,3,1,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,5,Moderate,"5,0,9,0,1,0,0,5",1,1,1,2,Moderate,High,Low,Moderate,SI,Perception,Practical Lab
+677,1,earist,1,1,it,3,1,0,Not Prefer,1,Low,0,Not Prefer,3,Low,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"0,1,0,3,7,0,0,1",2,2,1,2,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+678,1,earist,1,1,it,3,1,0,Not Prefer,7,Moderate,1,Low,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,"0,7,1,0,0,3,0,5",2,1,2,2,Moderate,Low,Low,Moderate,AR,Processing,Concept Mapping
+679,1,earist,1,1,it,1,1,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"3,0,5,0,7,0,0,3",1,1,1,2,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+680,1,earist,1,1,it,3,1,3,Low,0,Not Prefer,0,Not Prefer,7,Moderate,3,Low,0,Not Prefer,3,Low,0,Not Prefer,"3,0,0,7,3,0,3,0",1,2,1,1,Low,Moderate,Low,Low,SI,Perception,Coding Pattern
+681,1,earist,1,1,it,3,2,1,Low,0,Not Prefer,0,Not Prefer,1,Low,0,Not Prefer,3,Low,3,Low,0,Not Prefer,"1,0,0,1,0,3,3,0",1,2,2,1,Low,Low,Low,Low,AR,Processing,Individual Learning
+682,1,earist,1,1,it,3,1,0,Not Prefer,5,Moderate,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,5,7,0,5,0,1,0",2,1,1,1,Moderate,Moderate,Moderate,Low,AR,Processing,Concept Mapping
+683,1,earist,1,1,it,3,1,0,Not Prefer,3,Low,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"0,3,1,0,5,0,0,3",2,1,1,2,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+684,1,earist,1,1,it,3,1,1,Low,0,Not Prefer,1,Low,0,Not Prefer,9,High,0,Not Prefer,1,Low,0,Not Prefer,"1,0,1,0,9,0,1,0",1,1,1,1,Low,Low,High,Low,VV,Input,Interactive code
+685,1,earist,1,1,it,3,1,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,"0,5,5,0,3,0,5,0",2,1,1,1,Moderate,Moderate,Low,Moderate,AR,Processing,Concept Mapping
+686,1,earist,1,1,it,3,1,3,Low,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,1,Low,3,Low,0,Not Prefer,"3,0,0,3,0,1,3,0",1,2,2,1,Low,Low,Low,Low,AR,Processing,Individual Learning
+687,1,earist,1,1,it,2,1,0,Not Prefer,3,Low,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,"0,3,3,0,7,0,7,0",2,1,1,1,Low,Low,Moderate,Moderate,VV,Input,Visual Code Flowcharts
+688,1,earist,1,1,it,3,1,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"5,0,5,0,5,0,0,1",1,1,1,2,Moderate,Moderate,Moderate,Low,AR,Processing,Hands-On Labs
+689,1,earist,1,1,it,3,1,0,Not Prefer,5,Moderate,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"0,5,7,0,5,0,0,1",2,1,1,2,Moderate,Moderate,Moderate,Low,AR,Processing,Concept Mapping
+690,1,earist,1,1,it,1,1,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,3,Low,0,Not Prefer,"1,0,5,0,3,0,3,0",1,1,1,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+691,1,earist,1,1,it,1,1,0,Not Prefer,7,Moderate,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"0,7,1,0,7,0,0,1",2,1,1,2,Moderate,Low,Moderate,Low,AR,Processing,Concept Mapping
+692,1,earist,1,1,it,1,2,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,7,Moderate,"5,0,7,0,7,0,0,7",1,1,1,2,Moderate,Moderate,Moderate,Moderate,AR,Processing,Hands-On Labs
+693,1,earist,1,1,it,3,1,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"1,0,5,0,5,0,1,0",1,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+694,1,earist,1,1,it,3,1,0,Not Prefer,9,High,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,9,7,0,1,0,1,0",2,1,1,1,High,Moderate,Low,Low,AR,Processing,Independent Coding
+695,1,earist,1,1,it,1,2,0,Not Prefer,3,Low,1,Low,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,5,Moderate,"0,3,1,0,9,0,0,5",2,1,1,2,Low,Low,High,Moderate,VV,Input,Interactive code
+696,1,earist,1,1,it,3,1,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,"0,1,5,0,0,7,0,1",2,1,2,2,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+697,1,earist,1,1,it,3,1,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"1,0,5,0,7,0,0,1",1,1,1,2,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+698,1,earist,1,1,it,3,1,0,Not Prefer,3,Low,0,Not Prefer,7,Moderate,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"0,3,0,7,5,0,0,3",2,2,1,2,Low,Moderate,Moderate,Low,SI,Perception,Coding Pattern
+699,1,earist,2,4,it,3,1,0,Not Prefer,3,Low,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,"0,3,7,0,3,0,7,0",2,1,1,1,Low,Moderate,Low,Moderate,SI,Perception,Step-by-step Coding
+700,1,earist,1,1,it,3,2,0,Not Prefer,3,Low,3,Low,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,"0,3,3,0,3,0,5,0",2,1,1,1,Low,Low,Low,Moderate,SG,Understanding,Structured Outlines
+701,1,earist,1,1,it,3,1,0,Not Prefer,7,Moderate,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"0,7,3,0,5,0,5,0",2,1,1,1,Moderate,Low,Moderate,Moderate,AR,Processing,Concept Mapping
+702,1,earist,1,1,it,3,2,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,3,Low,0,Not Prefer,0,Not Prefer,1,Low,"7,0,3,0,3,0,0,1",1,1,1,2,Moderate,Low,Low,Low,AR,Processing,Hands-On Labs
+703,1,earist,1,1,it,3,2,0,Not Prefer,3,Low,0,Not Prefer,1,Low,1,Low,0,Not Prefer,0,Not Prefer,1,Low,"0,3,0,1,1,0,0,1",2,2,1,2,Low,Low,Low,Low,AR,Processing,Group Coding
+704,1,earist,1,1,it,3,1,0,Not Prefer,1,Low,1,Low,0,Not Prefer,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,"0,1,1,0,1,0,7,0",2,1,1,1,Low,Low,Low,Moderate,SG,Understanding,Structured Outlines
+705,1,earist,1,1,it,3,1,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,"3,0,7,0,1,0,5,0",1,1,1,1,Low,Moderate,Low,Moderate,SI,Perception,Step-by-step Coding
+706,1,earist,2,2,it,1,1,3,Low,0,Not Prefer,3,Low,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,"3,0,3,0,1,0,5,0",1,1,1,1,Low,Low,Low,Moderate,SG,Understanding,Structured Outlines
+707,1,earist,1,1,it,3,2,0,Not Prefer,7,Moderate,5,Moderate,0,Not Prefer,0,Not Prefer,11,High,0,Not Prefer,5,Moderate,"0,7,5,0,0,11,0,5",2,1,2,2,Moderate,Moderate,High,Moderate,VV,Input,Written Code
+708,1,earist,1,1,it,1,2,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,3,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,5,0,1,3,0,1,0",2,2,1,1,Moderate,Low,Low,Low,AR,Processing,Concept Mapping
+709,1,earist,1,1,it,3,1,3,Low,0,Not Prefer,0,Not Prefer,1,Low,0,Not Prefer,1,Low,1,Low,0,Not Prefer,"3,0,0,1,0,1,1,0",1,2,2,1,Low,Low,Low,Low,AR,Processing,Individual Learning
+710,1,earist,1,1,it,3,2,1,Low,0,Not Prefer,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"1,0,3,0,5,0,5,0",1,1,1,1,Low,Low,Moderate,Moderate,VV,Input,Visual Code Flowcharts
+711,1,earist,1,1,it,1,1,1,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,1,Low,1,Low,0,Not Prefer,"1,0,1,0,0,1,1,0",1,1,2,1,Low,Low,Low,Low,AR,Processing,Individual Learning
+712,1,earist,1,1,it,1,1,7,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,11,High,0,Not Prefer,9,High,0,Not Prefer,"7,0,5,0,11,0,9,0",1,1,1,1,Moderate,Moderate,High,High,VV,Input,Interactive code
+713,1,earist,1,1,it,3,1,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"0,5,5,0,7,0,0,1",2,1,1,2,Moderate,Moderate,Moderate,Low,AR,Processing,Concept Mapping
+714,1,earist,1,1,it,3,1,3,Low,0,Not Prefer,9,High,0,Not Prefer,3,Low,0,Not Prefer,9,High,0,Not Prefer,"3,0,9,0,3,0,9,0",1,1,1,1,Low,High,Low,High,SI,Perception,Practical Lab
+715,1,earist,1,1,it,3,2,3,Low,0,Not Prefer,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"3,0,0,5,5,0,0,3",1,2,1,2,Low,Moderate,Moderate,Low,SI,Perception,Coding Pattern
+716,1,earist,1,1,it,1,1,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,1,Low,"1,0,7,0,1,0,0,1",1,1,1,2,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+717,1,earist,1,1,it,3,1,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,3,Low,0,Not Prefer,"0,5,5,0,7,0,3,0",2,1,1,1,Moderate,Moderate,Moderate,Low,AR,Processing,Concept Mapping
+718,1,earist,1,1,it,3,1,1,Low,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,1,Low,1,Low,0,Not Prefer,"1,0,7,0,0,1,1,0",1,1,2,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+719,1,earist,1,1,it,3,1,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,"5,0,7,0,1,0,5,0",1,1,1,1,Moderate,Moderate,Low,Moderate,AR,Processing,Hands-On Labs
+720,1,earist,1,1,it,1,1,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,7,Moderate,0,Not Prefer,"5,0,5,0,9,0,7,0",1,1,1,1,Moderate,Moderate,High,Moderate,VV,Input,Interactive code
+721,1,earist,1,1,it,1,1,1,Low,0,Not Prefer,9,High,0,Not Prefer,3,Low,0,Not Prefer,7,Moderate,0,Not Prefer,"1,0,9,0,3,0,7,0",1,1,1,1,Low,High,Low,Moderate,SI,Perception,Practical Lab
+722,1,earist,1,1,it,3,1,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,1,Low,0,Not Prefer,"0,3,5,0,1,0,1,0",2,1,1,1,Low,Moderate,Low,Low,SI,Perception,Step-by-step Coding
+723,1,earist,1,1,it,3,2,1,Low,0,Not Prefer,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"1,0,1,0,5,0,5,0",1,1,1,1,Low,Low,Moderate,Moderate,VV,Input,Visual Code Flowcharts
+724,1,earist,1,1,it,1,1,0,Not Prefer,5,Moderate,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,0,Not Prefer,3,Low,"0,5,5,0,7,0,0,3",2,1,1,2,Moderate,Moderate,Moderate,Low,AR,Processing,Concept Mapping
+725,1,earist,1,1,it,3,1,0,Not Prefer,1,Low,1,Low,0,Not Prefer,5,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"0,1,1,0,5,0,1,0",2,1,1,1,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+726,1,earist,1,1,it,1,1,1,Low,0,Not Prefer,1,Low,0,Not Prefer,0,Not Prefer,3,Low,0,Not Prefer,1,Low,"1,0,1,0,0,3,0,1",1,1,2,2,Low,Low,Low,Low,AR,Processing,Individual Learning
+727,1,PUP,2,1,cs,1,1,3,Low,0,Not Prefer,0,Not Prefer,5,Moderate,11,High,0,Not Prefer,0,Not Prefer,7,Moderate,"3,0,0,5,11,0,0,7",1,2,1,2,Low,Moderate,High,Moderate,VV,Input,Interactive code
+728,1,PUP,2,1,cs,3,2,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,9,High,0,Not Prefer,0,Not Prefer,3,Low,"3,0,5,0,9,0,0,3",1,1,1,2,Low,Moderate,High,Low,VV,Input,Interactive code
+729,1,PUP,2,1,cs,1,1,1,Low,0,Not Prefer,0,Not Prefer,1,Low,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,"1,0,0,1,5,0,7,0",1,2,1,1,Low,Low,Moderate,Moderate,VV,Input,Visual Code Flowcharts
+730,1,PUP,2,1,cs,1,2,0,Not Prefer,3,Low,0,Not Prefer,3,Low,5,Moderate,0,Not Prefer,0,Not Prefer,1,Low,"0,3,0,3,5,0,0,1",2,2,1,2,Low,Low,Moderate,Low,VV,Input,Visual Code Flowcharts
+731,1,PUP,2,1,cs,3,2,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,7,Moderate,0,Not Prefer,1,Low,0,Not Prefer,"3,0,5,0,7,0,1,0",1,1,1,1,Low,Moderate,Moderate,Low,SI,Perception,Step-by-step Coding
+732,1,PUP,2,1,cs,3,2,0,Not Prefer,7,Moderate,5,Moderate,0,Not Prefer,3,Low,0,Not Prefer,3,Low,0,Not Prefer,"0,7,5,0,3,0,3,0",2,1,1,1,Moderate,Moderate,Low,Low,AR,Processing,Concept Mapping
+733,1,PUP,2,1,cs,1,1,0,Not Prefer,1,Low,3,Low,0,Not Prefer,5,Moderate,0,Not Prefer,5,Moderate,0,Not Prefer,"0,1,3,0,5,0,5,0",2,1,1,1,Low,Low,Moderate,Moderate,VV,Input,Visual Code Flowcharts
